@@ -2,3 +2,5 @@
 [[Primalas.png|Full Art]]
 
 A neutral passenger on [[The Kilfenora]] and someone who took great interest in both you and [[- Quinn -/Characters/PC/Quinn/Jasper Shatterborne|Jasper]].
+
+Primalas paid for passage to Seni to research its culture and visit the [[Imperial library of Rheilliwch]] 
