@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
+                "file": "- Brannon -/Additional Lore/yolo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
+                "file": "- Brannon -/Additional Lore/yolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
+                "file": "- Brannon -/Additional Lore/yolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md"
+                "file": "- Brannon -/Additional Lore/yolo.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "5730b17c7f24f28c",
   "lastOpenFiles": [
+    "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
+    "- Brannon -/Additional Lore/yolo.md",
     "Shared/Resources/Full Art/PCs/Tom.png",
     "Shared/Items/Pasted image 20230718162931.png",
     "- Aime -/Characters/Player Characters/Tom/Stronvan Quatre.md",
@@ -166,7 +168,6 @@
     "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 65 ft. line - 13x2.png",
     "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 5x5 ft. area 3 - 7x7.png",
     "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 60 ft. cone - 12x10.png",
-    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 5x5 ft. area 2 - 7x7.png",
     "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)",
     "Shared/Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)",
     "Shared/Resources/items/Weapons/Spell Focuses",
@@ -193,7 +194,6 @@
     "- Marta -/Characters/Player Characters/Tom/Seram Dos.md",
     "- Marta -/Characters/Player Characters/Tom/Stronvan Quatre.md",
     "- Marta -/Characters/Player Characters/Tom/Rolbam Eins.md",
-    "- Marta -/Characters/Player Characters/Tom/Malkath Tribus.md",
     "- Quinn -/Characters/Family Trees/Shatterborne.canvas",
     "- Brannon -/Characters/Family Trees/Shatterborne.canvas"
   ]
