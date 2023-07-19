@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Brannon -/Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Brannon -/Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Brannon -/Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Brannon -/Characters/PC/Quinn/Jasper Shatterborne.md"
+                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md"
               }
             }
           }
@@ -146,8 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61dd7e631abd96cc",
+  "active": "cf0abf7379d497ba",
   "lastOpenFiles": [
+    "- Marta -/Characters/Player Characters/Tom/Seram Dos.md",
+    "- Marta -/Characters/Player Characters/Tom/Stronvan Quatre.md",
+    "- Marta -/Characters/Player Characters/Tom/Rolbam Eins.md",
+    "- Marta -/Characters/Player Characters/Tom/Malkath Tribus.md",
+    "- Marta -/Characters/Player Characters/Tom",
+    "- Aime -/Characters/Player Characters/Tom/Stronvan Quatre.md",
+    "- Aime -/Characters/Player Characters/Tom/Seram Dos.md",
+    "- Aime -/Characters/Player Characters/Tom/Rolbam Eins.md",
+    "- Aime -/Characters/Player Characters/Tom/Malkath Tribus.md",
+    "- Brannon -/Characters/PC/Tom/Stronvan Quatre.md",
+    "- Brannon -/Characters/PC/Tom/Seram Dos.md",
+    "- Brannon -/Characters/PC/Tom/Rolbam Eins.md",
+    "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
+    "- Brannon -/Characters/PC/Quinn/Jasper Shatterborne.md",
     "- Brannon -/Characters/PC/Marta/Duska Von Mori.md",
     "- Brannon -/Characters/PC/Aime/Mazikeen.md",
     "- Aime -/Characters/Player Characters/Quinn/Jasper Shatterborne.md",
@@ -179,21 +193,7 @@
     "- Quinn -/Resources/Full Art/Djinn",
     "- Quinn -/Resources/Full Art/Crew of the Kilfenora",
     "- Quinn -/Resources/Tokens",
-    "- Quinn -/Resources/items",
     "- Quinn -/Narrative/Timelines/Quinn's Timeline.md",
-    "- Quinn -/Narrative/Timelines/Brannon's Timeline.md",
-    "- Quinn -/Narrative/1 - The Worst days of their lives/Session Notes.md",
-    "- Quinn -/Locations/Seni Isles/Brokvar/Virmarr.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Yamanohana.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Satsukiya.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Tsurukaze.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Nahagi.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Kirioka.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Nagaregawa.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Hayatsuyu.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Harukaze.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Hakushin.md",
-    "- Quinn -/Locations/Chimo-Nahagi/Chimo.md",
     "- Quinn -/Characters/Family Trees/Shatterborne.canvas",
     "- Brannon -/Characters/Family Trees/Shatterborne.canvas"
   ]
