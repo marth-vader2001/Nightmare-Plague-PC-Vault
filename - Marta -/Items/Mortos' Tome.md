@@ -1,0 +1,1 @@
+A dark and magical Tome that expands so as to always have room to record more knowledge within.

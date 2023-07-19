@@ -1,0 +1,1 @@
+Father of [[Hinelle]] and adviser to the [[church of the sun]]
