@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f43d60cd05cbc2eb",
+        "id": "662b1c01b36badee",
         "type": "tabs",
         "children": [
           {
-            "id": "61dd7e631abd96cc",
+            "id": "5730b17c7f24f28c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "- Brannon -/Characters/PC/Tom/Malkath Tribus.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,15 @@
   },
   "active": "cf0abf7379d497ba",
   "lastOpenFiles": [
+    "Shared/Locations",
+    "Shared/Items",
+    "Shared/Homebrew Rules",
+    "Shared/Groups",
+    "Shared/Characters",
+    "Shared/Bestiary",
+    "Shared/Additional Lore",
+    "Shared/Untitled.md",
+    "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
     "- Marta -/Characters/Player Characters/Tom/Seram Dos.md",
     "- Marta -/Characters/Player Characters/Tom/Stronvan Quatre.md",
     "- Marta -/Characters/Player Characters/Tom/Rolbam Eins.md",
@@ -160,7 +161,6 @@
     "- Brannon -/Characters/PC/Tom/Stronvan Quatre.md",
     "- Brannon -/Characters/PC/Tom/Seram Dos.md",
     "- Brannon -/Characters/PC/Tom/Rolbam Eins.md",
-    "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
     "- Brannon -/Characters/PC/Quinn/Jasper Shatterborne.md",
     "- Brannon -/Characters/PC/Marta/Duska Von Mori.md",
     "- Brannon -/Characters/PC/Aime/Mazikeen.md",
@@ -174,7 +174,6 @@
     "- Brannon -/Characters/Deities/Chimo-Nahagi/Greater Dragons/The Greater Dragons.md",
     "first commit.md",
     "New Text Document.txt",
-    "- Quinn -/The Forest of Mori.md",
     "- Quinn -/Pasted image 20230718162931.png",
     "- Quinn -/Resources/items/Weapons/GeodeSplitter_Kevin.png",
     "- Quinn -/Resources/items/Weapons/Spell Focuses",
@@ -187,13 +186,6 @@
     "- Quinn -/Resources/Full Art/Greater Dragons/Musoko.png",
     "- Quinn -/Resources/Full Art/PCs/Duska.png",
     "- Quinn -/Resources/items/Weapons",
-    "- Quinn -/Resources/Full Art/Primalas",
-    "- Quinn -/Resources/Full Art/PCs",
-    "- Quinn -/Resources/Full Art/Greater Dragons",
-    "- Quinn -/Resources/Full Art/Djinn",
-    "- Quinn -/Resources/Full Art/Crew of the Kilfenora",
-    "- Quinn -/Resources/Tokens",
-    "- Quinn -/Narrative/Timelines/Quinn's Timeline.md",
     "- Quinn -/Characters/Family Trees/Shatterborne.canvas",
     "- Brannon -/Characters/Family Trees/Shatterborne.canvas"
   ]
