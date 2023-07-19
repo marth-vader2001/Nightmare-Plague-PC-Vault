@@ -5,7 +5,7 @@ A large island consisting of the two countries [[Chimo]] and [[Nahagi]]. Divided
 - [[Tsurukaze]]
 - [[Satsukiya]]
 - [[Hakushin]]
-- [[Harukaze]]
+- [[- Brannon -/Locations/Chimo-Nahagi/Major Locations/Harukaze]]
 - [[Kirioka]]
 - [[Hayatsuyu]]
 - [[Nagaregawa]]
