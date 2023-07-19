@@ -2,7 +2,7 @@ The ship that you and [[- Brannon -/Characters/PC/Quinn/Jasper Shatterborne|Jasp
 
 Other notable people on the ship:
 - [[Ingo]]
-- [[isabella]]
+- [[Isabella]]
 - [[Jareth]]
 - [[Magnus]]
 - [[Seraphina]]
