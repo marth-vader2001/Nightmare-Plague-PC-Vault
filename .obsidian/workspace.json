@@ -11,7 +11,7 @@
             "id": "61dd7e631abd96cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "61dd7e631abd96cc",
   "lastOpenFiles": [
+    "- Brannon -/Characters/Deities/Chimo-Nahagi/Greater Dragons/The Greater Dragons.md",
     "first commit.md",
     "New Text Document.txt",
     "- Quinn -/The Forest of Mori.md",
@@ -185,7 +186,6 @@
     "- Quinn -/Homebrew Rules/Psychic Damage.md",
     "- Quinn -/Homebrew Rules/Dash & Sprint.md",
     "- Quinn -/Homebrew Rules/Critical Hits.md",
-    "- Quinn -/Homebrew Rules/Critical Health Levels.md",
     "- Quinn -/Characters/Family Trees/Shatterborne.canvas",
     "- Brannon -/Characters/Family Trees/Shatterborne.canvas"
   ]
