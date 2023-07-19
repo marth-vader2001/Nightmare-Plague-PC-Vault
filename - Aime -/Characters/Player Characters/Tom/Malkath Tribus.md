@@ -1,5 +1,5 @@
 ![[Tom_Token.png]]
-[[Alfread.png|Full Art]]
+[[Tom.png|Full Art]]
 
 ---
 ### Character Info
