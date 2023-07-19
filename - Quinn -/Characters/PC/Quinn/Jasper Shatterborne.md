@@ -20,14 +20,14 @@ Jasper Shatterborne
 
 Siblings: 
 - [[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
-- [[Beryllis Shatterborne]]
-- [[Nicodemus Shatterborne]]
-- [[Vesper Shatterborne]]
-- [[Pyrrhus Shatterborne]]
+- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne]]
+- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne]]
+- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne]]
+- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Pyrrhus Shatterborne]]
 
 Parents:
-- [[Magnar Shatterborne]]
-- [[Dolomite (Dola) Shimmerborne]]
+- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne]]
+- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne]]
 
 Djinn heritage:
 - [[Sansom, the mountain shatterer]]
