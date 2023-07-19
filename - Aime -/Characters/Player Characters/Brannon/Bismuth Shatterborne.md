@@ -1,5 +1,6 @@
 ![[Bismuth_Token.png]]
-[[- Brannon -/Resources/Full Art/PCs/Bismuth.png]]
+[[- Brannon -/Resources/Full Art/PCs/Bismuth.png|Full Art]]
+
 ---
 ### Character Info
 
