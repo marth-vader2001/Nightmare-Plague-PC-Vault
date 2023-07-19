@@ -1,4 +1,5 @@
-![[DuskVonMori_Token.png]]
+![[Duska_Token.png]]
+[[Duska.png|Full Art]]
 ### World Lore (things you know in brief)
 
 You have a complete understanding of Sunmaek's History (advantage on history checks)
