@@ -1,1 +1,1 @@
-![[WilderBeast.png]]
+![[WilderBeast_Full.png]]
