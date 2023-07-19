@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Quinn -/Locations/Chimo-Nahagi/The Forest of Mori.md",
+                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Quinn -/Locations/Chimo-Nahagi/The Forest of Mori.md",
+                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Quinn -/Locations/Chimo-Nahagi/The Forest of Mori.md",
+                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Quinn -/Locations/Chimo-Nahagi/The Forest of Mori.md"
+                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0abf7379d497ba",
+  "active": "5730b17c7f24f28c",
   "lastOpenFiles": [
+    "- Quinn -/Locations/Chimo-Nahagi/The Forest of Mori.md",
     "Shared/Pasted image 20230718162931.png",
     "- Quinn -/Pasted image 20230718162931.png",
     "- Brannon -/Resources/Creatures/WilderBeast.png",
@@ -193,7 +194,6 @@
     "- Brannon -/Characters/PC/Tom/Stronvan Quatre.md",
     "- Brannon -/Characters/PC/Tom/Seram Dos.md",
     "- Quinn -/Resources/items/Weapons/GeodeSplitter_Kevin.png",
-    "- Quinn -/Resources/Full Art/Greater Dragons/Soromo.png",
     "- Quinn -/Characters/Family Trees/Shatterborne.canvas",
     "- Brannon -/Characters/Family Trees/Shatterborne.canvas"
   ]
