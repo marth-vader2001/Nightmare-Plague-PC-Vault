@@ -1,6 +1,6 @@
 Father of:
-- [[Jasper Shatterborne]]
-- [[Bismuth Shatterborne]]
+- [[- Quinn -/Characters/PC/Quinn/Jasper Shatterborne]]
+- [[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
 - [[Beryllis Shatterborne]]
 - [[Nicodemus Shatterborne]]
 - [[Vesper Shatterborne]]

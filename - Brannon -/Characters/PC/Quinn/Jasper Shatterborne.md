@@ -19,7 +19,7 @@ Jasper Shatterborne
 ##### Family
 
 Siblings: 
-- [[Bismuth Shatterborne]]
+- [[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
 - [[Beryllis Shatterborne]]
 - [[Nicodemus Shatterborne]]
 - [[Vesper Shatterborne]]
@@ -64,7 +64,7 @@ There is no room for caution in a life filled to the brim. I don't think before 
 
 ---
 ### Backstory
-Twin sibling to [[Bismuth Shatterborne]]
+Twin sibling to [[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
 
 Younger sibling to Bismuth by two minutes.
 

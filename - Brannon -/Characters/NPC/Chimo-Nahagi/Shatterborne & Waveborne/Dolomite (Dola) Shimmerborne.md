@@ -1,3 +1,3 @@
 Mother of:
-[[Bismuth Shatterborne]]
-[[Jasper Shatterborne]]
+[[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
+[[- Quinn -/Characters/PC/Quinn/Jasper Shatterborne]]
