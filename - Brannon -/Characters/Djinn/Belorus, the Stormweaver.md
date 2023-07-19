@@ -1,1 +1,0 @@
-![[Belorus.png]]
