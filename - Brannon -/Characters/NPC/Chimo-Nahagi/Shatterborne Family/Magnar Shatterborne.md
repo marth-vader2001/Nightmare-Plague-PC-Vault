@@ -1,5 +1,5 @@
 Father of:
-- [[- Quinn -/Characters/PC/Quinn/Jasper Shatterborne]]
+- [[- Quinn -/Characters/PC/Quinn/Jasper]]
 - [[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
 - [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne]]
 - [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne]]

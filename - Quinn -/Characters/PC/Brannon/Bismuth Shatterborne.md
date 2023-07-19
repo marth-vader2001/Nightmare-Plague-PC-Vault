@@ -20,7 +20,7 @@ Bismuth Shatterborne
 ##### Family
 
 Siblings: 
-- [[- Quinn -/Characters/PC/Quinn/Jasper Shatterborne]]
+- [[- Quinn -/Characters/PC/Quinn/Jasper]]
 - [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne]]
 - [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne]]
 - [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne]]
