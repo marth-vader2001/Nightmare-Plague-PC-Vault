@@ -141,13 +141,21 @@
                 "file": "this file.md"
               }
             }
+          },
+          {
+            "id": "a5bdfa19cfccd500",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
