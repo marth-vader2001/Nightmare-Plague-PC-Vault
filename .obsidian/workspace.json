@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "662b1c01b36badee",
+        "id": "a80efaf175032147",
         "type": "tabs",
         "children": [
           {
-            "id": "5730b17c7f24f28c",
+            "id": "a30193512ed79487",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Shared/Resources/Full Art/PCs/Tom.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -144,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5730b17c7f24f28c",
+  "active": "cf0abf7379d497ba",
   "lastOpenFiles": [
     "Shared/Items/Pasted image 20230718162931.png",
     "- Aime -/Characters/Player Characters/Tom/Stronvan Quatre.md",
