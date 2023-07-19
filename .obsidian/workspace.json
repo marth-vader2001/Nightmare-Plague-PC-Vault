@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
+                "file": "- Aime -/Characters/Player Characters/Marta/Duska.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
+                "file": "- Aime -/Characters/Player Characters/Marta/Duska.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
+                "file": "- Aime -/Characters/Player Characters/Marta/Duska.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md"
+                "file": "- Aime -/Characters/Player Characters/Marta/Duska.md"
               }
             }
           }
@@ -148,19 +148,30 @@
   },
   "active": "5730b17c7f24f28c",
   "lastOpenFiles": [
-    "- Quinn -/Locations/Chimo-Nahagi/The Forest of Mori.md",
-    "Shared/Pasted image 20230718162931.png",
-    "- Quinn -/Pasted image 20230718162931.png",
-    "- Brannon -/Resources/Creatures/WilderBeast.png",
-    "- Aime -/Resources/Mazikeen_token.png",
-    "- Aime -/Resources/Mazikeen_Karambit.png",
-    "- Aime -/Resources/Jasper_Token.png",
-    "- Aime -/Resources/Bismuth_Token.png",
-    "- Aime -/Characters/Player Characters/Marta/Duska.md",
-    "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
     "- Aime -/Characters/Player Characters/Aime/Mazikeen.md",
-    "- Quinn -/Resources/Full Art/PCs/Mazikeen.png",
-    "- Brannon -/Resources/Full Art/PCs/Bismuth.png",
+    "Shared/Resources/Full Art/PCs/Mazikeen.png",
+    "- Aime -/Characters/Player Characters/Brannon/Bismuth Shatterborne.md",
+    "Shared/Resources/Full Art/PCs/Bismuth.png",
+    "Shared/Pasted image 20230718162931.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - rune - 4x4.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - impact - 5x5.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 65 ft. line - 13x2.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 5x5 ft. area 3 - 7x7.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 60 ft. cone - 12x10.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 5x5 ft. area 2 - 7x7.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)/Lightning - 50 ft. breath weapon - 11x2.png",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)",
+    "Shared/Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)",
+    "Shared/Resources/items/Weapons/Spell Focuses",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets.zip",
+    "Shared/Resources/Game Resources/Combat Art/Fire Spell Assets.zip",
+    "Shared/Resources/Game Resources/Combat Art/Lightning Spell Assets",
+    "Shared/Resources/Game Resources/Combat Art/Fire Spell Assets",
+    "Shared/Resources/items/Weapons",
+    "Shared/Resources/Game Resources/Combat Art.zip",
+    "Shared/Resources/Game Resources/terrain",
+    "- Quinn -/Locations/Chimo-Nahagi/The Forest of Mori.md",
+    "- Aime -/Characters/Player Characters/Marta/Duska.md",
     "- Aime -/Characters/Non Player Characters/Lupella.md",
     "- Aime -/Characters/Deities/Nëoris.md",
     "Shared/Untitled.md",
@@ -172,16 +183,6 @@
     "Homebrew Rules/Critical Hits.md",
     "Homebrew Rules/Critical Health Levels.md",
     "Homebrew Rules/Critical Death Save.md",
-    "Homebrew Rules",
-    "Narrative",
-    "Shared/Narrative",
-    "Shared/Maps",
-    "Shared/Locations",
-    "Shared/Items",
-    "Shared/Homebrew Rules",
-    "Shared/Groups",
-    "Shared/Characters",
-    "Shared/Bestiary",
     "- Brannon -/Characters/PC/Tom/Malkath Tribus.md",
     "- Marta -/Characters/Player Characters/Tom/Seram Dos.md",
     "- Marta -/Characters/Player Characters/Tom/Stronvan Quatre.md",
@@ -192,8 +193,6 @@
     "- Aime -/Characters/Player Characters/Tom/Rolbam Eins.md",
     "- Aime -/Characters/Player Characters/Tom/Malkath Tribus.md",
     "- Brannon -/Characters/PC/Tom/Stronvan Quatre.md",
-    "- Brannon -/Characters/PC/Tom/Seram Dos.md",
-    "- Quinn -/Resources/items/Weapons/GeodeSplitter_Kevin.png",
     "- Quinn -/Characters/Family Trees/Shatterborne.canvas",
     "- Brannon -/Characters/Family Trees/Shatterborne.canvas"
   ]

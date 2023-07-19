@@ -1,5 +1,5 @@
-![[]]
-[[|Full Art]]
+![[Bismuth_Token.png]]
+[[Bismuth.png|Full Art]]
 
 ---
 

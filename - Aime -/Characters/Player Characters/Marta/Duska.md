@@ -1,5 +1,5 @@
 ![[Duska_Token.png]]
-[[- Brannon -/Resources/Full Art/PCs/Duska.png|Full Art]]
+[[Duska|Full Art]]
 ### Character Info
 
 ##### Name 
