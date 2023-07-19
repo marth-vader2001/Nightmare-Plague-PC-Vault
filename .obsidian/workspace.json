@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a80efaf175032147",
+        "id": "662b1c01b36badee",
         "type": "tabs",
         "children": [
           {
-            "id": "a30193512ed79487",
+            "id": "5730b17c7f24f28c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shared/Resources/Full Art/PCs/Tom.png",
+                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shared/Resources/Full Art/PCs/Tom.png",
+                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shared/Resources/Full Art/PCs/Tom.png"
+                "file": "- Brannon -/Additional Lore/Ships/The Kilfenora.md"
               }
             }
           }
@@ -142,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0abf7379d497ba",
+  "active": "5730b17c7f24f28c",
   "lastOpenFiles": [
+    "Shared/Resources/Full Art/PCs/Tom.png",
     "Shared/Items/Pasted image 20230718162931.png",
     "- Aime -/Characters/Player Characters/Tom/Stronvan Quatre.md",
     "- Aime -/Characters/Player Characters/Tom/Seram Dos.md",
