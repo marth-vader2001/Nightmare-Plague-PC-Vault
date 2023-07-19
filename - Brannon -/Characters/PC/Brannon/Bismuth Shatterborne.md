@@ -21,15 +21,18 @@ Bismuth Shatterborne
 
 Siblings: 
 - [[- Brannon -/Characters/PC/Quinn/Jasper Shatterborne|Jasper Shatterborne]]
-- 
+- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne|Beryllis Shatterborne]]
+- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne|Vesper Shatterborne]]
+- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne|Nicodemus Shatterborne]]
+
 
 Parents:
-- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne]]
-- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne]]
+- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne|Magnar Shatterborne]]
+- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne|Dolomite (Dola) Shimmerborne]]
+
 
 Djinn heritage:
-- [[Sansom, the mountain shatterer]]
-- [[Auroris, the Shimmering Sentinal]]
+
 
 ##### Race
 Genasi Pure Blood
