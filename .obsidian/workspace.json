@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "788b519a13597ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Brannon -/Additional Lore/yolo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Brannon -/Additional Lore/yolo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Brannon -/Additional Lore/yolo.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5730b17c7f24f28c",
+  "active": "788b519a13597ab3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "- Brannon -/Additional Lore/yolo.md",
+    "conflict-files-obsidian-git.md",
     "- Brannon -/test file.md",
     "- Brannon -/Additional Lore/Ships/The Kilfenora.md",
     "Shared/Resources/Full Art/PCs/Tom.png",
