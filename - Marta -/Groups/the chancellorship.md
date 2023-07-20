@@ -1,1 +1,1 @@
-A group of esteemed members of [[Sunmaek]], these people act as advisors to the political leader [[]]
+A group of esteemed members of [[Sunmaek]], these people act as advisors to the political leader [[Buyuk Emre Aydın]]
