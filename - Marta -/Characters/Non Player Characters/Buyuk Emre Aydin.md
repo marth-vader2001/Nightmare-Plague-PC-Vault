@@ -1,1 +1,1 @@
-Emre Aydin
+Emre Aydin, the current leader of [[Sunmaek]]. Emre has maintained control over Sunmaek for near on 40 years: the country has flourishe under her l
