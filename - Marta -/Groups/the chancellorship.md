@@ -1,1 +1,0 @@
-A group of esteemed members of [[Sunmaek]], these people act as advisors to the Buyuk: [[Buyuk Emre Aydin]]

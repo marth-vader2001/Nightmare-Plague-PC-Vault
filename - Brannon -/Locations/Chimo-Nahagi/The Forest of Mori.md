@@ -1,1 +1,0 @@
-A grand forest a short distance from [[Satsukiya]]

@@ -1,3 +1,0 @@
-You have never seen Zenryoku but you know of his legend
-
-Zenryoku is said to live within a great underground chasm, surrounded by all manners of magical device with the power of future-sight. Not that Zenryoku needs them: being the greater fore-seer of all history, Zenryoku only uses them to help him navigate the spiderweb of possibilities that is the future. Famously, Zenryoku foresaw the future in which Musoko consumed all of Chimo-Nahagi.

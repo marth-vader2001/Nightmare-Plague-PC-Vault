@@ -1,1 +1,0 @@
-Twinned serpent gods: [[Dogu Yilani]] and [[Bati Yilani]]

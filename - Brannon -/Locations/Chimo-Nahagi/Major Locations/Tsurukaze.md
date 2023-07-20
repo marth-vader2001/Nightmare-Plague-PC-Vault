@@ -1,1 +1,0 @@
-Combining "tsuru" (crane) and "kaze" (wind), this name paints a picture of a serene town where graceful cranes soar through the open plains carried by gentle winds.

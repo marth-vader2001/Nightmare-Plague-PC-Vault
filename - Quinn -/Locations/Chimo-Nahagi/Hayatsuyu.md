@@ -1,1 +1,0 @@
-"Hayatsu" means "early morning" and "yu" means "dew." This name captures the essence of a town in the taiga/plains area where the morning dew glistens on the grass, creating a serene and refreshing atmosphere.

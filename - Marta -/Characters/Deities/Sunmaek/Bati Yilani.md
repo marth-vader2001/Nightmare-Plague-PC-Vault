@@ -1,1 +1,0 @@
-Snake of the West

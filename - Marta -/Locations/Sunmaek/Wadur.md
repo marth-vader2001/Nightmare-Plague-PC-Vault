@@ -1,1 +1,0 @@
-Duska is born here

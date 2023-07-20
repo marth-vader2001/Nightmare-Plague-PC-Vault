@@ -1,1 +1,0 @@
-"Haru" means "spring," and "kaze" means "wind." This name evokes the feeling of a town situated in the taiga/plains region where the spring breeze brings a sense of renewal and vitality.

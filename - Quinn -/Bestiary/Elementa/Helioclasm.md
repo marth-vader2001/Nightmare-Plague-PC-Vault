@@ -1,1 +1,0 @@
-A beast born of the faith for the twin suns
