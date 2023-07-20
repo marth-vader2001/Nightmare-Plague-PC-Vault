@@ -1,1 +1,1 @@
-Both a country and capital, Brokvar is known for its cold climate and ha
+Both a country and capital, Brokvar is known for its cold climate and harsh weather: you've never been to Brokvar before

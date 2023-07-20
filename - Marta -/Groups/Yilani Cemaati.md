@@ -1,1 +1,1 @@
-The major religious and governmental body of [[Sunmaek]]
+The major religious and governmental body of [[Sunmaek]]. Lead by [[Pontiff Eoma]] and [[Pontiff Sully]]
