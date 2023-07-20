@@ -1,1 +1,1 @@
-Father of [[Hinelle]] and adviser to the [[church of the sun]]
+Father of [[Hinelle]] and adviser to the [[Yilani Cemaati]]
