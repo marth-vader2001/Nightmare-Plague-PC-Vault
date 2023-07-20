@@ -1,1 +1,1 @@
-The major religious and governmental body of [[Sunmaek]]. Lead by [[Pontiff Emine]] and [[Pontiff Yusuf]]
+The major religious and governmental body of [[Sunmaek]]. Lead by [[Babalar Emine]] and [[Babalar Yusuf]]
