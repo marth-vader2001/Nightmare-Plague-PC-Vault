@@ -1,1 +1,1 @@
-One of the leaders of the [[Yilani Cemaati]]
+One of the leaders of the [[Yilani Cemaati]] and mother of [[Hinelle]]
