@@ -1,1 +1,1 @@
-Father of [[Hinelle]] and adviser to the [[Yilani Cemaati]]
+Father of [[Hinelle]], adviser to the [[Yilani Cemaati]] and member of [[the chancellorship]]
