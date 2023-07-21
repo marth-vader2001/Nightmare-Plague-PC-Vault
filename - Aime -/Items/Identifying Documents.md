@@ -4,8 +4,9 @@ Unfortunately, most of the documents are damaged beyond repair and use.
 
 Among the surviving documents are:
 
-| citizen of | name |
+| citizen of | name | area of residence
 | --- | --- |
 | Rheilliwch | Maelyrra Greqirelle |
-| Rheilliwch | Ceilia Leora |
+| Rheilliwch | Cielia Leora |
 | Cyfandirol | Myrrh Yllarel |
+| Brokvar | Lyra Wynro |
