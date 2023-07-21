@@ -2,9 +2,9 @@ A series of documents, all stamped with the same face but with differing details
 
 Unfortunately, most of the documents are damaged beyond repair and use.
 
-Among the surviving documents are:
+the surviving documents summarised below
 
-| citizen of | name | area of residence
+| citizen of | name |
 | --- | --- |
 | Rheilliwch | Maelyrra Greqirelle |
 | Rheilliwch | Cielia Leora |
