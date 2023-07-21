@@ -6,5 +6,6 @@ Among the surviving documents are:
 
 | citizen of | name |
 | --- | --- |
-| Rheilliwch | Margery |
-| Cyfandirol | 
+| Rheilliwch | Maelyrra Greqirelle |
+| Rheilliwch | Ceilia Leora |
+| Cyfandirol | Myrrh Yllarel |
