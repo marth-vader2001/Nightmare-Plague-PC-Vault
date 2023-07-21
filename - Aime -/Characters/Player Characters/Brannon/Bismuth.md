@@ -2,7 +2,6 @@
 [[Bismuth.png|Full Art]]
 
 ---
-
 ### Character Info
 
 ##### Name 
