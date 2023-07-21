@@ -17,7 +17,7 @@ Unknown
 Unknown
 
 ##### Race
-Unknown
+Human
 
 ##### Class
 Unknown

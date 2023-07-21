@@ -1,3 +1,6 @@
+You do not know what this person looks like
+
+---
 ### Character Info
 
 ##### Name 
