@@ -5,19 +5,19 @@
 ### Character Info
 
 ##### Name 
-Unknown
+Rolbam Eins
 
 ##### Current Age
 Unknown
 
 ##### Place of Origin
-Unknown
+Esgid
 
 ##### Family
 Unknown
 
 ##### Race
-Unknown
+Human
 
 ##### Class
 Unknown
