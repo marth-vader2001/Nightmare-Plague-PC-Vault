@@ -1,1 +1,0 @@
-Among the contents of the satchel were 27 documents: all were identifying documents but most were damaged beyond repair; the only shared detail between them is the face
