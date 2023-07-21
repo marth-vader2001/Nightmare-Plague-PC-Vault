@@ -1,0 +1,1 @@
+"Satsuki" is the Japanese word for the month of May, and "ya" means "house" or "store." This name suggests a town where the arrival of May brings vibrant colors to the taiga and plains, and perhaps a significant festival or event takes place during that time.

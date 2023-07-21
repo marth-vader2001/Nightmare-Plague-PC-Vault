@@ -1,0 +1,1 @@
+The northern of the two countries composing [[- Brannon -/Locations/Chimo-Nahagi/Chimo-Nahagi|Chimo-Nahagi]]
