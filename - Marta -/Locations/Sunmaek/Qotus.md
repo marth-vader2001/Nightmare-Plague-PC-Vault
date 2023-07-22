@@ -1,1 +1,1 @@
-The Capital of [[Sunmaek]]
+The Capital of [[- Marta -/Locations/Sunmaek/Sunmaek]]

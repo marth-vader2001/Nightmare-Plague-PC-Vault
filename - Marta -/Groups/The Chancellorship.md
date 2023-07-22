@@ -1,0 +1,1 @@
+A group of esteemed members of [[- Marta -/Locations/Sunmaek/Sunmaek]], these people act as advisors to the Buyuk: [[Buyuk Emre Aydin]]

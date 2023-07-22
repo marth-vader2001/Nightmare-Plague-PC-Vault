@@ -1,4 +1,4 @@
-Dell full damage on all damage dice and then roll all damage dice again.
+deal full damage on all damage dice and then roll all damage dice again.
 
 ie:
 

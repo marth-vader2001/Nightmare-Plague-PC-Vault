@@ -1,1 +1,0 @@
-![[Koranga.png]]

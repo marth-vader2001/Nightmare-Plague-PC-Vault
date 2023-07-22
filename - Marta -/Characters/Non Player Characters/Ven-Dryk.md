@@ -1,0 +1,1 @@
+Husband to the ex-queen of Brokvar [[Lupella Lundgren]]. After his marriage, Ven-Dryk ceased communications with [[- Marta -/Locations/Sunmaek/Sunmaek]] however, he has recently made contact, asking for support post-reclamation of Brokvar from a neighbouring Empire.

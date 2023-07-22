@@ -1,0 +1,1 @@
+Emre Aydin, the current leader of [[- Marta -/Locations/Sunmaek/Sunmaek]]. Emre has maintained control over Sunmaek for near on 40 years: the country has flourished under her leadership.

@@ -1,2 +1,2 @@
 ![[Auroris.png]]
-Djinn lineage of [[Dolomite (Dola) Shimmerborne]]
+Djinn lineage of [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne]]

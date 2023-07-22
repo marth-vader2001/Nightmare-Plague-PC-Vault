@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "3305ddc7f256feaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fa46364ab8bf294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba55826986277658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Brannon/Primalas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "042d72e3636fbec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "772339c0bf3b6d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad864427efc1d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f5a5979dec8a468",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f6151b74692bf08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c07e605abb6473b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a6ffe7bf8cacbcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2b183d5712224f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/PC/Brannon/Primalas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "508ed182bf44b33f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/PC/Brannon/Primalas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97fe5d5fa233881b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3dced96cd542ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/PC/Brannon/Primalas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba55826986277658",
+  "lastOpenFiles": [
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/PC/Aime/Mazikeen.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
+    "Characters/NPC/Chimo-Nahagi/Ingo.md",
+    "Characters/NPC/Chimo-Nahagi/Jareth.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite's Mother.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Pyrrhus Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Rilldina (Dina) Shimmerborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Udayra.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynessa.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne.md",
+    "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
+    "Characters/Djinn/Nameena, the swift of breath.md",
+    "Characters/Djinn/Koranga, the Eternal Flame.md",
+    "Characters/Djinn/Efreeti, the Arctic Herald.md",
+    "Characters/Djinn/Ashira, the First Wave.md",
+    "Characters/Djinn/Belorus, the Stormweaver.md",
+    "Characters/Djinn/Sansom, the mountain shatterer.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
+    "Resources/Smoke.png",
+    "Resources/Nomli.png",
+    "Resources/Herouk.png",
+    "Resources/PCs/Tom.png",
+    "Resources/PCs/Primalas.png",
+    "Resources/PCs/Mazikeen_SoulForm.png",
+    "Resources/PCs/Mazikeen.png",
+    "Resources/PCs/Jasper.png",
+    "Resources/PCs/IMG_3179.xcf",
+    "Resources/PCs/IMG_3179.png",
+    "Resources/PCs/IMG_3179.jpg",
+    "Resources/PCs",
+    "Resources/Greater Dragons",
+    "Resources/Djinn",
+    "Resources/Crew of the Kilfenora",
+    "Resources",
+    "New folder",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md"
+  ]
+}

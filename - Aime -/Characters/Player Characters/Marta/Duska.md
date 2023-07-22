@@ -5,13 +5,13 @@
 ### Character Info
 
 ##### Name 
-Unknown
+Duska Von Mori
 
 ##### Current Age
 Unknown
 
 ##### Place of Origin
-Unknown
+Sunmaek
 
 ##### Family
 Unknown
@@ -42,3 +42,5 @@ Unknown
 
 ##### Affiliations
 Unknown
+
+##### Notes

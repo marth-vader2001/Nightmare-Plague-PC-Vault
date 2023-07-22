@@ -1,1 +1,1 @@
-A god of [[Sunmaek]] origin, an ancient abhorrent evil known for bestowing powers on those it deems visionaries - those with the power to shape the world anew.
+A god of [[- Marta -/Locations/Sunmaek/Sunmaek]] origin, an ancient abhorrent evil known for bestowing powers on those it deems visionaries - those with the power to shape the world anew.

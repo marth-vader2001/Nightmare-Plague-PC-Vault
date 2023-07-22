@@ -1,0 +1,1 @@
+The coastal village that [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] is due to make port at in Brokvar.
