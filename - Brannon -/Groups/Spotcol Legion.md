@@ -1,0 +1,1 @@
+A group of elite soldiers dressed in high quality a
