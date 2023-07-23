@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Elaine ...
+Elaine
 
 ##### Current Age
 Unknown

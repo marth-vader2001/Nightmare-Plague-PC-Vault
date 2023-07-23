@@ -1,11 +1,11 @@
-![[Ela_Token.png]]
-[[Brovarra.png]]
+![[Elaine_Token.png]]
+[[Elaine.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Brovarra
+Elaine
 
 ##### Current Age
 Unknown
@@ -17,10 +17,10 @@ Unknown
 Unknown
 
 ##### Race
-Dwarf
+Human seemingly
 
 ##### Class
-Unknown
+Sorcerer
 
 ##### Alignment
 Unknown
