@@ -1,1 +1,1 @@
-Seemingly a pair of twinned snakes
+Seemingly relates to a pair of twinned snakes
