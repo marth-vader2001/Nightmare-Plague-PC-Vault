@@ -2,9 +2,7 @@
 	"nodes":[
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite's Mother.md","id":"723752c0a6710aa0","x":-2080,"y":-2680,"width":298,"height":200,"color":"1"},
 		{"type":"text","text":"","id":"b4c2ad215f30ff76","x":-1713,"y":-2280,"width":50,"height":60},
-		{"type":"file","file":"Characters/Djinn/Auroris, the Shimmering Sentinal.md","id":"9f38f5a34b9b5909","x":-1688,"y":-2680,"width":352,"height":200,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Shimmerborne.md","id":"d04124d25e5aedec","x":-1588,"y":-2103,"width":298,"height":200,"color":"1"},
-		{"type":"file","file":"Characters/Djinn/Sansom, the mountain shatterer.md","id":"261f2a2251030e84","x":-1216,"y":-2680,"width":298,"height":200,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Udayra.md","id":"fc7ad192b308f103","x":-661,"y":-2680,"width":298,"height":200,"color":"1"},
 		{"type":"text","text":"","id":"0631b3b8e91eefdb","x":-819,"y":-2280,"width":50,"height":60},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md","id":"8fc0e25b8744d9ba","x":-934,"y":-2103,"width":298,"height":200,"color":"4"},
@@ -17,7 +15,9 @@
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Vesper Shatterborne.md","id":"05e804f78e9de10e","x":-428,"y":-1000,"width":250,"height":200,"color":"6"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Nicodemus Shatterborne.md","id":"e941084d7e30f6f9","x":-128,"y":-1000,"width":250,"height":200,"color":"6"},
 		{"type":"file","file":"Characters/PC/Quinn/Jasper Shatterborne.md","id":"76fb308bd2374c34","x":-1782,"y":-1000,"width":298,"height":200,"color":"#0015b3"},
-		{"id":"2b91e3c8cd6b90d1","x":635,"y":-2517,"width":250,"height":60,"type":"text","text":"Dolomite's Mother"}
+		{"id":"ac9593abf2a05998","x":280,"y":-2680,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/Djinn/Auroris, the Shimmering Sentinel.md"},
+		{"id":"92ee5a361976d4b7","x":840,"y":-2680,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/Djinn/Sansom, the mountain shatterer.md"},
+		{"id":"f8f744629e81125e","x":1040,"y":-1970,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne.md"}
 	],
 	"edges":[
 		{"id":"6d52d66033063ae2","fromNode":"723752c0a6710aa0","fromSide":"bottom","toNode":"b4c2ad215f30ff76","toSide":"top"},
@@ -30,11 +30,9 @@
 		{"id":"b7b5719acc4433b7","fromNode":"e6bfe41c3f6d0f8d","fromSide":"bottom","toNode":"05e804f78e9de10e","toSide":"top"},
 		{"id":"3e19c9c1761d97b0","fromNode":"e6bfe41c3f6d0f8d","fromSide":"bottom","toNode":"e941084d7e30f6f9","toSide":"top"},
 		{"id":"095bf0f88a621b2b","fromNode":"0631b3b8e91eefdb","fromSide":"bottom","toNode":"8fc0e25b8744d9ba","toSide":"top"},
-		{"id":"7505baae2802f80f","fromNode":"261f2a2251030e84","fromSide":"bottom","toNode":"0631b3b8e91eefdb","toSide":"top"},
 		{"id":"7fed218663f5a80b","fromNode":"fc7ad192b308f103","fromSide":"bottom","toNode":"0631b3b8e91eefdb","toSide":"top"},
 		{"id":"16e4659b5e5a3891","fromNode":"3a0438129f9b4c7d","fromSide":"bottom","toNode":"76fb308bd2374c34","toSide":"top"},
 		{"id":"3a847c54dac7b2b4","fromNode":"3a0438129f9b4c7d","fromSide":"bottom","toNode":"44ac7ae9cf337e12","toSide":"top"},
-		{"id":"43531808d16ace00","fromNode":"e6bfe41c3f6d0f8d","fromSide":"bottom","toNode":"75316ab8243586c3","toSide":"top"},
-		{"id":"884ebd8696353ee3","fromNode":"9f38f5a34b9b5909","fromSide":"bottom","toNode":"b4c2ad215f30ff76","toSide":"top"}
+		{"id":"43531808d16ace00","fromNode":"e6bfe41c3f6d0f8d","fromSide":"bottom","toNode":"75316ab8243586c3","toSide":"top"}
 	]
 }
