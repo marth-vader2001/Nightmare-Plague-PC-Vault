@@ -1,1 +1,1 @@
-Dolomite's Father
+Father to [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne|Dolomite (Dola)]] and [[Ri]]
