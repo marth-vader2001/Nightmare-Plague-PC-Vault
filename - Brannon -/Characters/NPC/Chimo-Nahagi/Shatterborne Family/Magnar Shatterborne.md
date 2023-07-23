@@ -1,3 +1,4 @@
+![[alexander-korepov-dnd2.jpg]]
 Fathered with [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne|Dolomite (Dola) Shimmerborne]]:
 - [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]]
 - [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]]
