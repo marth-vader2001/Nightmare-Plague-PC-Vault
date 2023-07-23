@@ -1,1 +1,1 @@
-[[- Aime -/Characters/Player Characters/Marta/Duska|Duska]] and [[Elaine]] mentioned 
+[[- Aime -/Characters/Player Characters/Marta/Duska|Duska]] and [[Elaine]] discussed Duska's faith and mentioned its relation to a pair of twin snakes
