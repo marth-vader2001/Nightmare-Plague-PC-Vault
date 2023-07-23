@@ -33,7 +33,7 @@ Djinn heritage:
 
 
 ##### Race
-Genasi Pure Blood
+Genasi
 
 ##### Class
 Path of the Beast Barbarian

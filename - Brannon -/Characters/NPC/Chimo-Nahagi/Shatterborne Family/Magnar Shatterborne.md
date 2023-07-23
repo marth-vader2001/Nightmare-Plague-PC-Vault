@@ -5,15 +5,16 @@
 ### Character Info
 
 ##### Name 
-Bismuth Shatterborne
+Magnar Shatterborne
 
 ##### Current Age
-25
+216
 
 ##### Place of Origin
-[[Yamanohana]]
+Unknown, [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]]
 
-##### Family [[- Brannon -/Characters/Family Trees/Shatterborne.canvas|Shatterborne Family Tree]]
+##### Family
+[[- Brannon -/Characters/Family Trees/Shatterborne.canvas|Shatterborne Family Tree]]
 
 Fathered two children with [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne|Dolomite (Dola) Shimmerborne]]:
 - [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]]
@@ -27,7 +28,7 @@ and four with [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynes
 
 
 ##### Race
-Genasi Pure Blood
+Genasi
 
 ##### Class
 Path of the Beast Barbarian

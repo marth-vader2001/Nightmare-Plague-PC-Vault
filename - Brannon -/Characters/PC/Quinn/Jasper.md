@@ -34,7 +34,7 @@ Djinn heritage:
 - [[Auroris, the Shimmering Sentinal]]
 
 ##### Race
-Genasi Pure Blood
+Genasi
 
 ##### Class
 Land Druid
