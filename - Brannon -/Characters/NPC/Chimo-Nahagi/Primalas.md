@@ -1,7 +1,7 @@
 ![[Primalas_Token.png]]
 [[Primalas.png|Full Art]]
 
-A neutral passenger on [[The Kilfenora]] and someone who took great interest in both you and [[- Quinn -/Characters/PC/Quinn/Jasper|Jasper]].
+A neutral passenger on [[- Quinn -/Additional Lore/Ships/The Kilfenora]] and someone who took great interest in both you and [[- Quinn -/Characters/PC/Quinn/Jasper|Jasper]].
 
 Primalas mostly kept to himself on the ship: wrapped head to foot in a hooded, heavy dull cloak. The only adornment he wore was a simple brooch pinning the cloak together: a golden eye, studded with a rich ruby in place of its iris. 
 

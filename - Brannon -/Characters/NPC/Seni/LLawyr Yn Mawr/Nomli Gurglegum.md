@@ -1,2 +1,2 @@
-Captain of "[[The Kilfenora]]" and privateer by trade.
+Captain of "[[- Quinn -/Additional Lore/Ships/The Kilfenora]]" and privateer by trade.
 
