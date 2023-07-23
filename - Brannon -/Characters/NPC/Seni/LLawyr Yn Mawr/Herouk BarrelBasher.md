@@ -11,31 +11,21 @@ Magnar Shatterborne
 216
 
 ##### Place of Origin
-Unknown, [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]]
+Unknown, [[]]
 
 ##### Family
-[[- Brannon -/Characters/Family Trees/Shatterborne.canvas|Shatterborne Family Tree]]
-
-Fathered two children with [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne|Dolomite (Dola) Shimmerborne]]:
-- [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]]
-- [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]]
-
-and four with [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynessa|Ynessa]]
-- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne|Beryllis]]
-- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne|Nicodemus]]
-- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Pyrrhus Shatterborne|Pyrrhus]]
-- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne|Vesper]]
+Partner of [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]]
 
 
 ##### Race
-Genasi
+Dwarf
 
 ##### Class
 Unknown
 
 
 ##### Alignment
-Neutral "Evil"/ Asshole
+Unknown
 
 ##### Personality Traits
 Unknown
