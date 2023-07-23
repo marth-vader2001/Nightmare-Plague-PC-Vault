@@ -5,13 +5,13 @@
 ### Character Info
 
 ##### Name 
-Magnar Shatterborne
+Herouk
 
 ##### Current Age
 216
 
 ##### Place of Origin
-Unknown, [[]]
+Unknown
 
 ##### Family
 Partner of [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]]
