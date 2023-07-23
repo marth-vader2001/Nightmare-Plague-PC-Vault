@@ -8,7 +8,7 @@
 Herouk BarrelBasher
 
 ##### Current Age
-216
+Unknown
 
 ##### Place of Origin
 Unknown
@@ -16,13 +16,11 @@ Unknown
 ##### Family
 Partner of [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]]
 
-
 ##### Race
 Dwarf
 
 ##### Class
 Unknown
-
 
 ##### Alignment
 Unknown
@@ -33,21 +31,17 @@ Unknown
 ##### Long Term Goals
 Unknown
 
-
 ##### Secondary Goals
 Unknown
-
 
 ##### Motivations
 Unknown
 
-
 ##### Flaws
 Unknown
-
 
 ##### Affiliations
 [[The Crew of the Kilfenora]]
 
 ### Notes
-The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his pa
+The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]].
