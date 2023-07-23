@@ -1,1 +1,1 @@
-![[Belorus.png]]
+The Djinn Belorus lives in a cloud fortress high above the skies of Chimo: it is said that Belorus is friends with the dragon [[Soromo (Lord of the Dragons)|]]
