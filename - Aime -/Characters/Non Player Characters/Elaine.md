@@ -45,4 +45,4 @@ Unknown
 
 ##### Notes
 Elaine claims to work with a woman called [[Mistress]]
-Elaine purchased [[- Aime -/Characters/Player Characters/Brannon/Bismuth|Bismuth]] and [[- Aime -/Characters/Player Characters/Quinn/Jasper|Jasper]] for 2000 Baht but paid in jewels. 
+Elaine purchased [[- Aime -/Characters/Player Characters/Brannon/Bismuth|Bismuth]] and [[- Aime -/Characters/Player Characters/Quinn/Jasper|Jasper]] for 2000 [[Baht]] but paid in jewels. 
