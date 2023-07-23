@@ -2,11 +2,6 @@
 [[Shared/Resources/Full Art/PCs/Bismuth.png|Full Art]]
 
 ---
-### World Lore (things you know in brief)
-[[The Greater Dragons]]
-
-
----
 ### Character Info
 
 ##### Name 
