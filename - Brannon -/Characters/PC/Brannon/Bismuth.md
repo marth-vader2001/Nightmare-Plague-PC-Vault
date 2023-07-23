@@ -33,7 +33,7 @@ Parents:
 
 Djinn heritage:
 - [[- Brannon -/Characters/Djinn/Sansom, the mountain shatterer|Sansom, the mountain shatterer]]
-- [[- Brannon -/Characters/Djinn/Auroris, the Shimmering Sentinal|Auroris, the Shimmering Sentinal]]
+- [[Auroris, the Shimmering Sentinel|Auroris, the Shimmering Sentinel]]
 
 
 ##### Race
