@@ -69,10 +69,9 @@ Past experiences with bad leadership have lead me to feel the need to be in char
 - [[The Travelling Merchants]]
 - [[The other slaves]] + Primalas
 
----
-### Backstory
+### Notes
 
-Born to [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne]], Bismuth had a very troubled upbringing after his mother died birthing him. Despite being one of 6 siblings, only developed a close relationship with one: his twin sibling Jasper. The two were inseparable from birth and stood up for each other when no one else would. When Jasper came out as Trans, the family denounced her right to the name Shatterborne. On hearing the news, Malachix tried to strike Jasper and would've succeeded if not for the intervention of Bismuth. The pair promptly left their home in search of adventure and freedom. 
+Born to [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne|Magnar Shatterborne]] and [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynessa|Ynessa]] Bismuth had a very troubled upbringing after his mother died birthing him. Despite being one of 6 siblings, only developed a close relationship with one: his twin sibling Jasper. The two were inseparable from birth and stood up for each other when no one else would. When Jasper came out as Trans, the family denounced her right to the name Shatterborne. On hearing the news, Magnar tried to strike Jasper and would've succeeded if not for the intervention of Bismuth. The pair promptly left their home in search of adventure and freedom. 
 
 During their travels, Bismuth encountered many an oddity and learnt how to manipulate their powers to take on the form of the beast. 
 
