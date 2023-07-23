@@ -46,4 +46,4 @@ Unknown
 ##### Notes
 They seemingly had been tracking you for quite some time before finding you in the crater. 
 They were able to survive falling 70ft
-They were able to cast a spell that summone
+They were able to cast a spell that summoned a large silvery hand
