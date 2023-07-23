@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Lupella ...
+Elaine ...
 
 ##### Current Age
 Unknown
@@ -17,10 +17,10 @@ Unknown
 Unknown
 
 ##### Race
-Unknown
+Human seemingly
 
 ##### Class
-Unknown
+Sorcerer seemingly
 
 ##### Alignment
 Unknown
@@ -44,4 +44,4 @@ Unknown
 Unknown
 
 ##### Notes
-A name you remember, you cannot remember where you know it from but you feel immense anger towards the name
+Elaine claims to work with a woman called [[Misstress]]
