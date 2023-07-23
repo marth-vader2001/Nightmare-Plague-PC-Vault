@@ -45,6 +45,6 @@ Unknown
 
 ##### Notes
 Elaine claims to work with a woman called [[Mistress]]
-Elaine purchased [[- Aime -/Characters/Player Characters/Brannon/Bismuth|Bismuth]] and [[- Aime -/Characters/Player Characters/Quinn/Jasper|Jasper]] for 2000 [[Baht]] but paid in jewels. 
+Elaine purchased [[- Aime -/Characters/Player Characters/Brannon/Bismuth|Bismuth]] and [[- Aime -/Characters/Player Characters/Quinn/Jasper|Jasper]] for 2000 [[- Aime -/Additional Lore/Currency/Baht]] but paid in jewels. 
 Elaine was seemingly expecting your arrival
 Elaine knew that [[Tom - overview]] would be arriving in [[- Aime -/Locations/Seni Isles/Brokvar/Virmarr|Virmarr]] before he appeared. 
