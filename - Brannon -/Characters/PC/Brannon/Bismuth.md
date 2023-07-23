@@ -1,4 +1,5 @@
 ![[Bismuth_Token.png]]
+[[Shared/Resources/Full Art/PCs/Bismuth.png|Full Art]]
 
 ---
 ### World Lore (things you know in brief)

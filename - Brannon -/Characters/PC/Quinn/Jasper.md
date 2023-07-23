@@ -1,5 +1,5 @@
 ![[Jasper_Token.png]]
-
+[[Shared/Resources/Full Art/PCs/Jasper.png|Full Art]]
 ---
 ### World Lore (things you know in brief)
 [[The Greater Dragons]]
