@@ -1,3 +1,3 @@
 ![[Sansom.png]]
 
-Djinn-lineage of [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne]]
+Djinn lineage of [[Ma]]; and consequently: [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] and [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]].
