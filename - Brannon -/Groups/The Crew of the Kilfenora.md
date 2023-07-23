@@ -1,5 +1,5 @@
 [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]]
-[[Herouk BarrelBasher]]
+[[Herouk]]
 
 [[Isabella]]
 [[- Brannon -/Characters/NPC/Chimo-Nahagi/Jareth|Jareth]]

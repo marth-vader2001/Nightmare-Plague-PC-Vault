@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Herouk
+Herouk BarrelBasher
 
 ##### Current Age
 216
@@ -50,4 +50,4 @@ Unknown
 [[The Crew of the Kilfenora]]
 
 ### Notes
-The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade but demonstrated through his way with words was clearly a musician at heart.
+The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his pa
