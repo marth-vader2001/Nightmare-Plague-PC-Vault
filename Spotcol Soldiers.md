@@ -1,1 +1,0 @@
-![[Spotcol_Soldier_Token.png]]
