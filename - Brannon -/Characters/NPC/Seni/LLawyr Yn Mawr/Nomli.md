@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Herouk BarrelBasher
+Nomli Gurglegum
 
 ##### Current Age
 Unknown
@@ -14,7 +14,7 @@ Unknown
 Unknown
 
 ##### Family
-Partner of [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]]
+Partner of [[Herouk]]
 
 ##### Race
 Dwarf
@@ -44,4 +44,4 @@ Unknown
 [[The Crew of the Kilfenora]]
 
 ### Notes
-The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]].
+Captain of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Nomli was a privateer by trade and worked alongside his partner [[Herouk]].

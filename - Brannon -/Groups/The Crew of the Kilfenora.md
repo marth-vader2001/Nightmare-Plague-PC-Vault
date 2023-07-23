@@ -1,4 +1,4 @@
-[[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]]
+[[Nomli|Nomli]]
 [[Herouk]]
 
 [[Isabella]]

@@ -14,7 +14,7 @@ Unknown
 Unknown
 
 ##### Family
-Partner of [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]]
+Partner of [[Nomli|Nomli]]
 
 ##### Race
 Dwarf
@@ -44,4 +44,4 @@ Unknown
 [[The Crew of the Kilfenora]]
 
 ### Notes
-The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[- Brannon -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum|Nomli Gurglegum]].
+The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[Nomli|Nomli]].
