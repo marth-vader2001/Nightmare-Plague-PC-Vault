@@ -31,35 +31,32 @@ and four with [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynes
 Genasi
 
 ##### Class
-Path of the Beast Barbarian
+Unknown
+
 
 ##### Alignment
-Neutral Good
+Neutral "Evil"/ Asshole
 
 ##### Personality Traits
-- Adventurous
-- Curious
-- Restless
-- Open-Minded
-- Energetic
-- Independent
+Unknown
 
 ##### Long Term Goals
-- Would like to find a way home or a new home
-- Take revenge on those that brought you to Seni
+Unknown
+
 
 ##### Secondary Goals
-- Learn more about Family History
-- Commune with the other Greater Dragons
-- Find out why Chimo-Nahagi locals are aiding in foreign slave trade
-- Keeping Jasper safe
+Unknown
+
 
 ##### Motivations
-After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
+Unknown
+
 
 ##### Flaws
-Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
+Unknown
+
 
 ##### Affiliations
-- [[The Travelling Merchants]]
-- [[The other slaves]] + Primalas
+Unknown
+
+##### Notes
