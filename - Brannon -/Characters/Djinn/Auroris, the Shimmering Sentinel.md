@@ -2,5 +2,4 @@ Djinn lineage of [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/D
 
 Auroris is a solitary Djinn and as such you have never met her; however, your being of her lineage is highly likely due to the composition of your form: a synergy between earthen and crystalline structures.
 
-Being of Auroris' lineage allows you to draw 
-
+Auroris' lineage grants you the feat
