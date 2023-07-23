@@ -44,4 +44,8 @@ Unknown
 Unknown
 
 ### Notes
-Works as the barkeep and landlady of [[- Brannon -/Locations/Seni Isles/Brokvar/The Copper Cask|The Copper Cask]].
+Elaine claims to work with a woman called [[- Brannon -/Characters/NPC/Seni/Brokvar/Mistress|Mistress]]
+
+Elaine purchased [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] for 2000 [[- Brannon -/Additional Lore/Currency/Baht|Baht]] but paid in jewels - in the same transaction, she handed the auctioneer a paper document.
+
+Elaine was seemingly expecting [[- Aime -/Characters/Player Characters/Aime/Mazikeen|Mazikeen]]'s arrival.
