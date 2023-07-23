@@ -11,13 +11,13 @@
 		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Rilldina (Dina) Shimmerborne.md","id":"5dd0c81e09ed7078","x":-320,"y":-1960,"width":400,"height":400,"color":"6"},
 		{"type":"text","text":"","id":"0b446a873fad3c52","x":1140,"y":-1790,"width":50,"height":60},
 		{"type":"text","text":"","id":"931fb71881d2c9c8","x":2360,"y":-1790,"width":50,"height":60},
-		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne.md","id":"82b486f09ae3e20a","x":1760,"y":-1092,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne.md","id":"6eb00eca3515df92","x":2210,"y":-1092,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Pyrrhus Shatterborne.md","id":"e752224afc7dc548","x":2680,"y":-1092,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne.md","id":"1c7a64ad0371066a","x":3160,"y":-1092,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"- Brannon -/Characters/PC/Quinn/Jasper.md","id":"19f2cbd4c3d629c8","x":1190,"y":-1092,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"- Brannon -/Characters/PC/Brannon/Bismuth.md","id":"287e5803bd372af8","x":740,"y":-1092,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynessa.md","id":"c7278a2849fae391","x":2760,"y":-1960,"width":400,"height":400,"color":"1"}
+		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynessa.md","id":"c7278a2849fae391","x":2760,"y":-1960,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"- Brannon -/Characters/PC/Brannon/Bismuth.md","id":"287e5803bd372af8","x":4080,"y":-2905,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"- Brannon -/Characters/PC/Quinn/Jasper.md","id":"19f2cbd4c3d629c8","x":4530,"y":-2905,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne.md","id":"82b486f09ae3e20a","x":4980,"y":-2905,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne.md","id":"6eb00eca3515df92","x":5430,"y":-2905,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Pyrrhus Shatterborne.md","id":"e752224afc7dc548","x":5880,"y":-2905,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne.md","id":"1c7a64ad0371066a","x":6330,"y":-2905,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"a4ab48d99d4d3517","fromNode":"b68e8f097599d23b","fromSide":"bottom","toNode":"5dd0c81e09ed7078","toSide":"top"},
