@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"287e5803bd372af8","x":358,"y":-945,"width":400,"height":400,"type":"file","file":"- Brannon -/Characters/PC/Brannon/Bismuth.md"},
 		{"type":"file","file":"Characters/PC/Brannon/Bismuth Shatterborne.md","id":"44ac7ae9cf337e12","x":-1460,"y":-1000,"width":298,"height":200,"color":"#0015b3"},
 		{"type":"file","file":"Characters/PC/Quinn/Jasper Shatterborne.md","id":"76fb308bd2374c34","x":-1782,"y":-1000,"width":298,"height":200,"color":"#0015b3"},
 		{"type":"text","text":"","id":"3a0438129f9b4c7d","x":-2240,"y":-1892,"width":50,"height":60},
@@ -14,14 +13,17 @@
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md","id":"8fc0e25b8744d9ba","x":-2041,"y":-2395,"width":298,"height":200,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md","id":"6f8939f9e6125462","x":-1536,"y":-2395,"width":298,"height":230,"color":"1"},
 		{"id":"6f2c71fadae3808a","x":-320,"y":-2680,"width":400,"height":400,"color":"6","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite's Mother.md"},
-		{"id":"df723613f304f725","x":360,"y":-1692,"width":400,"height":400,"color":"1","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne.md"},
-		{"id":"5dd0c81e09ed7078","x":-320,"y":-1692,"width":400,"height":400,"color":"6","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Rilldina (Dina) Shimmerborne.md"},
 		{"id":"ac9593abf2a05998","x":360,"y":-2680,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/Djinn/Auroris, the Shimmering Sentinel.md"},
 		{"id":"b68e8f097599d23b","x":200,"y":-2505,"width":50,"height":50,"type":"text","text":""},
 		{"id":"92ee5a361976d4b7","x":1160,"y":-2680,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/Djinn/Sansom, the mountain shatterer.md"},
-		{"id":"f8f744629e81125e","x":1560,"y":-1692,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne.md"},
-		{"id":"557f69350f6be992","x":1960,"y":-2680,"width":400,"height":400,"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Udayra.md"},
-		{"type":"text","text":"","id":"48c64b68abdd7a90","x":1735,"y":-2505,"width":50,"height":50}
+		{"id":"557f69350f6be992","x":1960,"y":-2680,"width":400,"height":400,"color":"6","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Udayra.md"},
+		{"type":"text","text":"","id":"48c64b68abdd7a90","x":1735,"y":-2505,"width":50,"height":50},
+		{"id":"19f2cbd4c3d629c8","x":1242,"y":-1092,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/PC/Quinn/Jasper.md"},
+		{"id":"f8f744629e81125e","x":1560,"y":-1960,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne.md"},
+		{"id":"df723613f304f725","x":360,"y":-1960,"width":400,"height":400,"color":"1","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne.md"},
+		{"id":"5dd0c81e09ed7078","x":-320,"y":-1960,"width":400,"height":400,"color":"6","type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Rilldina (Dina) Shimmerborne.md"},
+		{"id":"287e5803bd372af8","x":560,"y":-1092,"width":400,"height":400,"color":"4","type":"file","file":"- Brannon -/Characters/PC/Brannon/Bismuth.md"},
+		{"id":"0b446a873fad3c52","x":1140,"y":-1790,"width":50,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"ac20c6dc3f661578","fromNode":"8fc0e25b8744d9ba","fromSide":"bottom","toNode":"3a0438129f9b4c7d","toSide":"top"},
@@ -41,6 +43,10 @@
 		{"id":"6290fe7dc5c31865","fromNode":"ac9593abf2a05998","fromSide":"left","toNode":"b68e8f097599d23b","toSide":"right"},
 		{"id":"649d04c5025a5e6f","fromNode":"92ee5a361976d4b7","fromSide":"right","toNode":"48c64b68abdd7a90","toSide":"left"},
 		{"id":"0588b6a6a6017844","fromNode":"557f69350f6be992","fromSide":"left","toNode":"48c64b68abdd7a90","toSide":"right"},
-		{"id":"b5ab04a1a0320e41","fromNode":"48c64b68abdd7a90","fromSide":"bottom","toNode":"f8f744629e81125e","toSide":"top"}
+		{"id":"b5ab04a1a0320e41","fromNode":"48c64b68abdd7a90","fromSide":"bottom","toNode":"f8f744629e81125e","toSide":"top"},
+		{"id":"2bb5acfffe545480","fromNode":"df723613f304f725","fromSide":"right","toNode":"0b446a873fad3c52","toSide":"left"},
+		{"id":"3d973e94bf986849","fromNode":"f8f744629e81125e","fromSide":"left","toNode":"0b446a873fad3c52","toSide":"right"},
+		{"id":"ff42d781e0d2444c","fromNode":"0b446a873fad3c52","fromSide":"bottom","toNode":"287e5803bd372af8","toSide":"top"},
+		{"id":"fbb76153657e6d96","fromNode":"0b446a873fad3c52","fromSide":"bottom","toNode":"19f2cbd4c3d629c8","toSide":"top"}
 	]
 }
