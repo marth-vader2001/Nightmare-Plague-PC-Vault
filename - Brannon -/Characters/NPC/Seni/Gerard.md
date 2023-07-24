@@ -1,4 +1,4 @@
-![[Gerard_token.png]]
+![[Gerad_Token.png]]
 [[Gerard.png|Full Art]]
 
 ---
