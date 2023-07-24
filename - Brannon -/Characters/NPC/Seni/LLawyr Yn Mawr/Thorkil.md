@@ -1,5 +1,5 @@
-![[Thork_Token.png]]
-[[Shared/Resources/Full Art/Crew of the Kilfenora/Magnus.png|Full Art]]
+![[Thorkill_Token.png]]
+[[Thorkil.png|Full Art]]
 
 ---
 ### Character Info
