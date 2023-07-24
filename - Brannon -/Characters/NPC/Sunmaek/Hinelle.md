@@ -11,7 +11,7 @@ Hinelle
 Unknown
 
 ##### Place of Origin
-Unknown
+Unknown, Sunmaek
 
 ##### Family
 Father: [[Sturgis]]

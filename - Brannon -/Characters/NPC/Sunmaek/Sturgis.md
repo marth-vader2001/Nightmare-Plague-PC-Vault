@@ -11,7 +11,7 @@ Sturgis
 Unknown
 
 ##### Place of Origin
-Unknown
+Unknown, Sunmaek
 
 ##### Family
 Daughter: [[Hinelle]]
