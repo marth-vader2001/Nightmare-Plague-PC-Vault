@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Isabella Ironchin
+Isabella
 
 ##### Current Age
 Unknown

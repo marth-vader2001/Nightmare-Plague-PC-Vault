@@ -1,11 +1,11 @@
-![[Isabella_Token.png]]
+![[Magnus_Token.png]]
 [[Shared/Resources/Full Art/Crew of the Kilfenora/Magnus.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Isabella Ironchin
+Magnus 
 
 ##### Current Age
 Unknown
