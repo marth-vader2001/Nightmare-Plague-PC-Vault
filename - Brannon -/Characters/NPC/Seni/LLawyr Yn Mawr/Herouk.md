@@ -11,7 +11,7 @@ Herouk BarrelBasher
 Unknown
 
 ##### Place of Origin
-Unknown
+[[Llawyr un Mawr]]
 
 ##### Family
 Partner of [[Nomli|Nomli]]

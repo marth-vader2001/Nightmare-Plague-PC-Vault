@@ -11,7 +11,7 @@ Magnus
 Unknown
 
 ##### Place of Origin
-Unknown
+[[Llawyr un Mawr]]
 
 ##### Family
 Unknown
