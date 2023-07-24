@@ -2,4 +2,4 @@ An unknown something that could be described as being *a tentacle comprised of i
 
 notably can take the form of:
 - tentacles
-- [[smopke]]
+- [[smoke warriors|humanoids]]
