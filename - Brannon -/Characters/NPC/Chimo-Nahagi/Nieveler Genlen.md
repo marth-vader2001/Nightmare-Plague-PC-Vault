@@ -1,29 +1,29 @@
 ![[NievelerGenlen_Token.png]]
 [[Nieveler_Genlen.png|Full Art]]
-[[nievele]]
+
 ---
 ### Character Info
 
 ##### Name 
-Merlin
+Nieveler Genlen
 
 ##### Current Age
 Unknown
 
 ##### Place of Origin
-Unknown
+[[- Brannon -/Locations/Chimo-Nahagi/Major Locations/Harukaze|Harukaze]]
 
 ##### Family
 Unknown
 
 ##### Race
-Dwarf
+Elf
 
 ##### Class
-Unknown
+Formerly Druid
 
 ##### Alignment
-Unknown
+Lawful Good
 
 ##### Personality Traits
 Unknown
