@@ -17,7 +17,7 @@ Unknown
 Unknown
 
 ##### Race
-Dwarf
+Tabaxi
 
 ##### Class
 Unknown

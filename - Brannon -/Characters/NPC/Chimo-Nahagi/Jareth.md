@@ -1,11 +1,11 @@
-![[Ingo_Token.png]]
-[[Ingo.png|Full Art]]
+![[Jareth_Token.png]]
+[[Jareth.png]]
 
 ---
 ### Character Info
 
 ##### Name 
-Ingo
+Jareth
 
 ##### Current Age
 Unknown
@@ -17,7 +17,7 @@ Unknown
 Unknown
 
 ##### Race
-Dwarf
+Tabaxi
 
 ##### Class
 Unknown
@@ -44,4 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-Jareth was one of only a few [[The Crew of the Kilfenora|members of the crew]] confirmed to have knowledge of the cargo being transported from [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]] to [[- Brannon -/Characters/NPC/Seni/Rheilliiwch/Heinabergsar]] by [[Nomli]]
+Jareth was one of only a few [[The Crew of the Kilfenora|members of the crew]] confirmed to have knowledge of the cargo being transported from [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]] to [[Hein]]]] by [[Nomli]]
