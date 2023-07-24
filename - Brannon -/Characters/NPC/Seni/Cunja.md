@@ -1,11 +1,11 @@
-![[Breek_Token.png]]
-[[Breek.png|Full Art]]
+![[Cunja_Token.png]]
+[[Cunja.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Cunja
+Brovarra
 
 ##### Current Age
 Unknown
@@ -44,3 +44,4 @@ Unknown
 Unknown
 
 ### Notes
+Works as the barkeep and landlady of [[- Brannon -/Locations/Seni Isles/Brokvar/The Copper Cask|The Copper Cask]].
