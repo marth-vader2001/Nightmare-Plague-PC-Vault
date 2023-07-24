@@ -44,4 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-Jareth was one of two [[The Crew of the Kilfenora]] confirmed to have knowledge of the cargo being transported from [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]] to [[Rheilliwch]] by [[Nomli]]
+Jareth was one of only a few [[The Crew of the Kilfenora|members of the crew]] confirmed to have knowledge of the cargo being transported from [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]] to [[- Brannon -/Characters/NPC/Seni/Rheilliiwch/Heinabergsar]] by [[Nomli]]

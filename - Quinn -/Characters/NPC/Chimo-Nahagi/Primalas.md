@@ -7,6 +7,6 @@ Primalas mostly kept to himself on the ship, bar his time spent with you: wrappe
 
 Fond of the game Liar's dice, Primalas' sole regular excursion would be to play with the ship's crew: [[- Quinn -/Characters/NPC/Chimo-Nahagi/Ingo|Ingo]] was the only one of which that ever gave him trouble: something about that Tabaxi's cool demeanour...
 
-Primalas paid for passage to Seni to research its culture and visit the [[Imperial library of Heinabergsar]]. Primalas has said that he'll make his own way to [[Heinabergsar]] when the ship docks in [[Potton-Ton]].
+Primalas paid for passage to Seni to research its culture and visit the [[Imperial library of Heinabergsar]]. Primalas has said that he'll make his own way to [[- Brannon -/Locations/Seni Isles/Rheilliwch/Heinabergsar]] when the ship docks in [[Potton-Ton]].
 
 During travel, Primalas paid particular attention to you - Often spending long periods of time with you, barraging you with questions about your time travelling through [[- Quinn -/Locations/Chimo-Nahagi/Chimo|Chimo]]. 
