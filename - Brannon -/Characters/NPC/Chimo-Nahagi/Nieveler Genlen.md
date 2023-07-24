@@ -1,6 +1,6 @@
-![[Nievele_Token.png]]
-[[Nieveler_Genlen.png]]
-
+![[NievelerGenlen_Token.png]]
+[[Nieveler_Genlen.png|Full Art]]
+[[nievele]]
 ---
 ### Character Info
 
