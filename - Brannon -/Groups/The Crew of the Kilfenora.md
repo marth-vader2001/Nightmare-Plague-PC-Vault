@@ -1,4 +1,4 @@
-[[Nomli|Nomli]]
+[[Nomli]]
 [[Herouk]]
 
 [[- Brannon -/Characters/NPC/Chimo-Nahagi/Ingo|Ingo]]
