@@ -1,1 +1,1 @@
-![[UnknownVillage.png]]
+![[Unknown Village.jpg]]
