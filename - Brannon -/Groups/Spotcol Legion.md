@@ -1,1 +1,1 @@
-A group of elite [[Spotcol legionary|soldiers]] dressed in high quality armour and equipped with masterfully crafted weapons.
+A group of elite [[Spotcol Legionary|soldiers]] dressed in high quality armour and equipped with masterfully crafted weapons.
