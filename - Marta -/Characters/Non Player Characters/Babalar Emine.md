@@ -1,1 +1,1 @@
-One of the leaders of the [[Yilani Cemaati]] and mother of [[Hinelle]].
+One of the leaders of the [[Yilani Cemaati]] and mother of [[- Marta -/Characters/Non Player Characters/Hinelle]].

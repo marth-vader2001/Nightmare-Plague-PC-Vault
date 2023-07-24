@@ -1,1 +1,1 @@
-Father of [[Hinelle]], adviser to the [[Yilani Cemaati]] and member of [[- Marta -/Groups/The Chancellorship]]
+Father of [[- Marta -/Characters/Non Player Characters/Hinelle]], adviser to the [[Yilani Cemaati]] and member of [[- Marta -/Groups/The Chancellorship]]
