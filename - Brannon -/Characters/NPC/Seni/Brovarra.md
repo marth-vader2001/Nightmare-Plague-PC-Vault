@@ -1,5 +1,5 @@
 ![[Brovarra_Token.png]]
-[[Brovarra.png]]
+[[Brovarra.png|Full Art]]
 
 ---
 ### Character Info
