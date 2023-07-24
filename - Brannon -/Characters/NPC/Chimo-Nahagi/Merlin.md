@@ -44,5 +44,5 @@ Unknown
 Unknown
 
 ### Notes
-Merlin was found dead in his cabin, his throat discoloured black like the muscle inside of [[Magnus]]'s arm after it's contact with the [[unknown something]] in humanoid form.
+Merlin was found dead in his cabin, his throat discoloured black like the muscle inside of [[Magnus]]'s arm after it's contact with the [[Unknown Something]] in humanoid form.
 
