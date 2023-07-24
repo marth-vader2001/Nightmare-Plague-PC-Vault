@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Isabella 
+Isabella Ironchin
 
 ##### Current Age
 Unknown
@@ -14,7 +14,7 @@ Unknown
 Unknown
 
 ##### Family
-Partner of [[Nomli|Nomli]]
+Unknown
 
 ##### Race
 Dwarf
@@ -44,4 +44,4 @@ Unknown
 [[The Crew of the Kilfenora]]
 
 ### Notes
-The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[Nomli|Nomli]].
+Stole away from [[- brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]
