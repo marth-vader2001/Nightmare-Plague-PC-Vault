@@ -4,7 +4,7 @@
 ---
 ### Info
 
-Member of the elite guard of [[the ymerodrol empire]]
+Member of an elite guard
 
 ### Notes
 Were the cause of the sacking of an [[Unknown Village]]
