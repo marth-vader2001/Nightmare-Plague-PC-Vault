@@ -44,4 +44,4 @@ Unknown
 [[The Crew of the Kilfenora]]
 
 ### Notes
-Stole away from [[- brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] by taking one of its two safety boats.
+Stole away from [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] by taking one of its two safety boats.
