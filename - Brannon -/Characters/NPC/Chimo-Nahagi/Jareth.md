@@ -1,5 +1,5 @@
 ![[Jareth_Token.png]]
-[[Jareth.png]]
+[[Jareth.png|Full Art]]
 
 ---
 ### Character Info
@@ -46,4 +46,4 @@ Unknown
 ### Notes
 Jareth was one of only a few [[The Crew of the Kilfenora|members of the crew]] confirmed to have knowledge of the cargo being transported from [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]] to [[- Brannon -/Locations/Seni Isles/Rheilliwch/Heinabergsar|Heinabergsar]] by [[Nomli]].
 
-Jareth was present for the sale of [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]]
+Jareth was present for the sale of [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] to [[- Brannon -/Characters/NPC/Seni/Brokvar/Elaine|Elaine]].
