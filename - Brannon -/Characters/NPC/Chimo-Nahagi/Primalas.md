@@ -1,11 +1,11 @@
-![[Primals_Token.png]]
-[[Ingo.png|Full Art]]
+![[Primalas_Token.png]]
+[[Primalas.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Ingo
+Primalas
 
 ##### Current Age
 Unknown
@@ -17,10 +17,10 @@ Unknown
 Unknown
 
 ##### Race
-Tabaxi
+Dragon
 
 ##### Class
-Unknown
+Sorcerer? 
 
 ##### Alignment
 Unknown
@@ -44,11 +44,7 @@ Unknown
 Unknown
 
 ### Notes
-Ingo was one of the more charismatic crew members aboard [[- Quinn -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. In charge of the artillery, Ingo was the ships first line of defence against off-board trouble; and its gambling extraordinaire. 
-
-Ingo was found dead in his cabin, his throat discoloured black like [[- Brannon -/Characters/NPC/Chimo-Nahagi/Merlin|Merlin]]'s
-
-A neutral passenger on [[- Quinn -/Additional Lore/Ships/The Kilfenora]] and someone who took great interest in both you and [[- Quinn -/Characters/PC/Quinn/Jasper|Jasper]].
+A neutral passenger on [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] and someone who took great interest in both you and [[- Quinn -/Characters/PC/Quinn/Jasper|Jasper]].
 
 Primalas mostly kept to himself on the ship: wrapped head to foot in a hooded, heavy dull cloak. The only adornment he wore was a simple brooch pinning the cloak together: a golden eye, studded with a rich ruby in place of its iris. 
 
