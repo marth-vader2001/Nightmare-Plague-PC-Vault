@@ -1,11 +1,11 @@
-![[Herouk_Token.png]]
+![[Isabella_Token.png]]
 [[Shared/Resources/Full Art/Crew of the Kilfenora/Isabella.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Herouk BarrelBasher
+Isabella 
 
 ##### Current Age
 Unknown
