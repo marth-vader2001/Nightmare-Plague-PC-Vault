@@ -14,7 +14,7 @@ Unknown
 Unknown
 
 ##### Family
-Father: [[- Brannon -/Characters/NPC/Sunmaek/Hinelle|Hinelle]]
+Father: [[Sturgis]]
 
 ##### Race
 Unknown

@@ -14,7 +14,7 @@ Unknown
 Unknown
 
 ##### Family
-Father: [[Sturgis]]
+Daughter: [[Hinelle]]
 
 ##### Race
 Unknown
