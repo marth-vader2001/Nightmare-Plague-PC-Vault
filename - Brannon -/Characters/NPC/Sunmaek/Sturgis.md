@@ -1,11 +1,11 @@
 ![[Sturgis_Token.png]]
-[[Sturgis.png]]
+[[Sturgis.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Merlin
+Sturgis
 
 ##### Current Age
 Unknown
@@ -17,7 +17,7 @@ Unknown
 Unknown
 
 ##### Race
-Tabaxi
+Unknown
 
 ##### Class
 Unknown
@@ -44,5 +44,8 @@ Unknown
 Unknown
 
 ### Notes
-Merlin was found dead in his cabin, his throat discoloured black like the muscle inside of [[Magnus]]'s arm after it's contact with the [[unknown something]] in humanoid form.
+A member of [[- Brannon -/Groups/The Chancellorship]]
+
+Sent to [[- Brannon -/Locations/Seni Isles/Brokvar/Virmarr|Virmarr]]
+
 
