@@ -1,5 +1,5 @@
 ![[Gerard_token.png]]
-[[Gerard.png]]
+[[Gerard.png|Full Art]]
 
 ---
 ### Character Info
@@ -20,7 +20,7 @@ Unknown
 Human seemingly
 
 ##### Class
-Sorcerer seemingly
+Unknown
 
 ##### Alignment
 Unknown
@@ -44,8 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-Elaine claims to work with a woman called [[- Brannon -/Characters/NPC/Seni/Brokvar/Mistress|Mistress]]
-
-Elaine purchased [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] for 2000 [[- Brannon -/Additional Lore/Currency/Baht|Baht]] but paid in jewels - in the same transaction, she handed the auctioneer a paper document.
-
-Elaine was seemingly expecting [[- Aime -/Characters/Player Characters/Aime/Mazikeen|Mazikeen]]'s arrival.
+Works a farm outside of [[- Brannon -/Locations/Seni Isles/Brokvar/Virmarr|Virmarr]]
