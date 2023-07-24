@@ -1,1 +1,1 @@
-The imperial capital of Rheilliwch
+The imperial capital of [[Rheilliwch]]
