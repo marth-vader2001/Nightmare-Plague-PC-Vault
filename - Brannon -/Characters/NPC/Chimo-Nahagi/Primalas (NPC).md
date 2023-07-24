@@ -50,4 +50,4 @@ Primalas mostly kept to himself on the ship: wrapped head to foot in a hooded, h
 
 Fond of the game Liar's dice, Primalas' sole regular excursion would be to play with the ship's crew. [[- Brannon -/Characters/NPC/Chimo-Nahagi/Ingo|Ingo]] was the only one of which that ever gave him trouble.
 
-Primalas paid for passage to Seni to research its culture and visit the [[Imperial library of Heinabergsar]]. Primalas has said that he'll make his own way to [[- Brannon -/Locations/Seni Isles/Rheilliwch/Heinabergsar]] when the ship docks in [[Potton-Ton]].
+Primalas paid for passage to Seni to research its culture and visit the [[Imperial library of Heinabergsar]].

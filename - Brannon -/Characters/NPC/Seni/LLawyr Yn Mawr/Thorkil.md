@@ -1,4 +1,4 @@
-![[Magnus_Token.png]]
+![[Thork_Token.png]]
 [[Shared/Resources/Full Art/Crew of the Kilfenora/Magnus.png|Full Art]]
 
 ---
