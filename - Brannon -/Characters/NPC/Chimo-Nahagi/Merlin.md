@@ -1,3 +1,47 @@
-![[Merlin.png]]
+![[Merlin_Token.png]]
+[[Merlin.png|Full Art]]
 
-A member of the crew of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]'s crew that hailed from [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]]. Merlin kept mostly to himself and as rumour had it this was so he could focus on his study of the arcane.
+---
+### Character Info
+
+##### Name 
+Merlin
+
+##### Current Age
+Unknown
+
+##### Place of Origin
+Unknown
+
+##### Family
+Unknown
+
+##### Race
+Dwarf
+
+##### Class
+Unknown
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+Unknown
+
+### Notes
+Merlin was found dead in his cabin, his throat discoloured black like the muscle inside of [[Magnus]]'s arm after it's  
