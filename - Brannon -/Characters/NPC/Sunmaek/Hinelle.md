@@ -1,11 +1,11 @@
-![[Sturgis_Token.png]]
-[[Sturgis.png|Full Art]]
+![[Hinele_Token.png]]
+[[Hinelle.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Sturgis
+Hinelle
 
 ##### Current Age
 Unknown
