@@ -76,6 +76,6 @@ Inconveniently for the Master Librarian, she had recently been giving Duska trou
 
 >*"The inevitability of death is the greatest equalizer; immortality, in all its forms, threatens to upset the delicate balance of life and death. The cycle of life must continue, unbroken and unchallenged, for all time."*
 
-Duska spent many years purging Sunmaek of the undeserving and the immortal, using their position to develop connections within the chancellorship. [[- Marta -/Characters/Non Player Characters/Hinelle]], the daughter of the [[Chancellor Sturgis]] grew close to you after many years spent in the library - you've opted to exploit this relationship to get closer to the chancellor, and hopefully sway Hinele to your will.
+Duska spent many years purging Sunmaek of the undeserving and the immortal, using their position to develop connections within the chancellorship. [[Hinelle Armagan]], the daughter of the [[Chancellor Sturgis]] grew close to you after many years spent in the library - you've opted to exploit this relationship to get closer to the chancellor, and hopefully sway Hinele to your will.
 
 When given the opportunity to travel to Seni with chancellor Sturgis and Hinele, you jumped at the opportunity. If only as an opportunity to spread your cold embrace and the word of Mortos.

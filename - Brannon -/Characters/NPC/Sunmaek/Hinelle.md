@@ -14,7 +14,7 @@ Unknown
 Unknown
 
 ##### Family
-Daughter: [[- Brannon -/Characters/NPC/Sunmaek/Hinelle|Hinelle]]
+Father: [[- Brannon -/Characters/NPC/Sunmaek/Hinelle|Hinelle]]
 
 ##### Race
 Unknown
