@@ -7,5 +7,5 @@
 | 1753 | -40 | [[Qotus]] | Duska is granted title of [[Master Librarian]] |
 | --- | --- | --- | --- |
 | 1759 | -34 | ??? | Duska recovers [[Omen]] | 
-| 1793 | 0 | [[- Quinn -/Locations/Seni Isles/Brokvar/Virmarr]] | Campaign begins |
+| 1793 | 0 | [[- Marta -/Locations/Seni/Brokvar\|Brokvar]] | Campaign begins |
 
