@@ -1,8 +1,8 @@
 | Position | Name |
 | --- | --- |
 | Captain | [[Nomli]] |
-| | [[Herouk]] |
-| | [[- Brannon -/Characters/NPC/Chimo-Nahagi/Ingo|Ingo]] |
+| Lieutenant | [[Herouk]] |
+| Crew | [[- Brannon -/Characters/NPC/Chimo-Nahagi/Ingo|Ingo]] |
 | | [[Isabella]] |
 | | [[- Brannon -/Characters/NPC/Chimo-Nahagi/Jareth|Jareth]] |
 | | [[Magnus]] |
