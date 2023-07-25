@@ -14,7 +14,7 @@ Unknown
 [[Llawyr un Mawr]]
 
 ##### Family
-Partner of [[Nomli|Nomli]]
+Partner of [[- Brannon -/Characters/NPC/Seni/Nomli|Nomli]]
 
 ##### Race
 Dwarf
@@ -44,6 +44,6 @@ Unknown
 [[The Crew of the Kilfenora]]
 
 ### Notes
-The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[Nomli|Nomli]].
+The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[- Brannon -/Characters/NPC/Seni/Nomli|Nomli]].
 
 Took the slaves of [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]], including [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] to [[- Brannon -/Locations/Seni Isles/Brokvar/Virmarr|Virmarr]]
