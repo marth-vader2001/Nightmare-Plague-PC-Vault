@@ -1,4 +1,7 @@
 ![[Tom_Token.png]]
+[[Shared/Resources/Full Art/PCs/Tom.png|Full Art]]
+
+---
 ### Character Info
 
 ##### Name 
@@ -39,3 +42,6 @@ Unknown
 
 ##### Affiliations
 Unknown
+
+
+### Notes

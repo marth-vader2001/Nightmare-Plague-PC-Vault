@@ -82,6 +82,3 @@ While never as successful at self-transfiguration as their Sibling Jasper, Bismu
 While Jasper was rejuvenating the earth, Bismuth aided the village by rounding up more livestock for the village by transforming into a Wilderbeast with the help of Jasper and the blessing of Kaede.
 
 
-
-
----
