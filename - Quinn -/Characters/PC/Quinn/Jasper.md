@@ -31,7 +31,7 @@ Parents:
 
 Djinn heritage:
 - [[Sansom, the mountain shatterer]]
-- [[Auroris, the Shimmering Sentinal]]
+- [[- Quinn -/Characters/Djinn/Auroris, the Shimmering Sentinel]]
 
 ##### Race
 Genasi Pure Blood

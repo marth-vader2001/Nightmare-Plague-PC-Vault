@@ -28,11 +28,10 @@ Siblings:
 Parents:
 - [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne|Magnar Shatterborne]]
 - [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne|Dolomite (Dola) Shimmerborne]]
-- 
 
 Djinn heritage:
-- [[Sansom, the mountain shatterer]]
-- [[Auroris, the Shimmering Sentinal]]
+- [[- Brannon -/Characters/Djinn/Sansom, the mountain shatterer|Sansom, the mountain shatterer]]
+- [[- Brannon -/Characters/Djinn/Auroris, the Shimmering Sentinel|Auroris, the Shimmering Sentinel]]
 
 ##### Race
 Genasi
@@ -43,21 +42,20 @@ Land Druid
 ##### Alignment
 Chaotic Good
 
-### Personality Traits
+##### Personality Traits
 
 
-### Long Term Goals
-- Would like to find a way home or a new home
-- Take revenge on those that brought you to Seni
+##### Long Term Goals
+
 
 ##### Secondary Goals
 
 
-### Motivations
-My family and friends are the most important things to me, even when we are far apart
+##### Motivations
+
 
 ##### Flaws
-There is no room for caution in a life filled to the brim. I don't think before doing what I believe is the right thing
+
 
 ##### Affiliations
 - [[The Travelling Merchants]]
