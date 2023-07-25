@@ -41,7 +41,7 @@ Unknown
 Unknown
 
 ##### Affiliations
-[[The Crew of the Kilfenora]]
+[[- Brannon -/Groups/The Crew of the Kilfenora]]
 
 ### Notes
 Jumped overboard [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] in flight of the events that had just occurred and to try and swim towards [[Isabella]] in their safety boat.

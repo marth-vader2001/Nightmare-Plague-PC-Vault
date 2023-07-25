@@ -41,7 +41,7 @@ Unknown
 Unknown
 
 ##### Affiliations
-[[The Crew of the Kilfenora]]
+[[- Brannon -/Groups/The Crew of the Kilfenora]]
 
 ### Notes
 Stole away from [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] by taking one of its two safety boats.

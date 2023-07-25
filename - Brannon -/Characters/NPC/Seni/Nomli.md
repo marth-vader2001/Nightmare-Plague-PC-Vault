@@ -41,7 +41,7 @@ Unknown
 Unknown
 
 ##### Affiliations
-[[The Crew of the Kilfenora]]
+[[- Brannon -/Groups/The Crew of the Kilfenora]]
 
 ### Notes
 Captain of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Nomli was a privateer by trade and worked alongside his partner [[Herouk]].

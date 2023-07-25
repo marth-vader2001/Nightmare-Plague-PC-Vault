@@ -41,7 +41,7 @@ Unknown
 Unknown
 
 ##### Affiliations
-[[The Crew of the Kilfenora]]
+[[- Brannon -/Groups/The Crew of the Kilfenora]]
 
 ### Notes
 The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[- Brannon -/Characters/NPC/Seni/Nomli|Nomli]].
