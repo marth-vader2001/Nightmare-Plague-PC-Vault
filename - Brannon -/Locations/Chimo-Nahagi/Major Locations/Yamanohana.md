@@ -1,3 +1,3 @@
-A quaint town set within a valley in the mountain ranges of Northern [[Chimo-Nahagi]]: the southern end opening into a view of the plains of Northern [[Chimo]], it's northern end climbing towards the border with [[Nahagi]]'s sourthern ranges 
+A quaint town set within a valley in the mountain ranges of Northern [[- Brannon -/Locations/Chimo-Nahagi/Chimo-Nahagi|Chimo-Nahagi]]: the southern end opening into a view of the plains of Northern [[- Brannon -/Locations/Chimo-Nahagi/Chimo|Chimo]], it's northern end climbing towards the border with [[- Brannon -/Locations/Chimo-Nahagi/Nahagi|Nahagi]]'s southern ranges 
 
-Mountain 'town' that [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]]
+Mountain 'town' that [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]]
