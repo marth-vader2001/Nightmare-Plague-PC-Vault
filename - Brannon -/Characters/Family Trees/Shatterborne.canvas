@@ -1,15 +1,7 @@
 {
 	"nodes":[
 		{"type":"file","file":"- Brannon -/Characters/Djinn/Auroris, the Shimmering Sentinel.md","id":"ac9593abf2a05998","x":820,"y":-3615,"width":400,"height":400,"color":"4"},
-		{"type":"text","text":"","id":"01c69b8807d56c28","x":770,"y":-4120,"width":50,"height":3600},
-		{"type":"text","text":"","id":"4df848054692e2fa","x":1220,"y":-3780,"width":50,"height":3600},
-		{"type":"text","text":"","id":"8e7e346d52449ad7","x":320,"y":-4880,"width":50,"height":3600},
 		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Elaria Tsukiyama.md","id":"2ed6a0539c3b07d2","x":-80,"y":-3615,"width":400,"height":400,"color":"6"},
-		{"type":"text","text":"","id":"150caa6783b9cc7b","x":-130,"y":-4335,"width":50,"height":3600},
-		{"type":"text","text":"","id":"887847bb0f548eac","x":1670,"y":-4500,"width":50,"height":3600},
-		{"type":"text","text":"","id":"f25af28e10bbb4dc","x":2120,"y":-3780,"width":50,"height":3600},
-		{"type":"text","text":"","id":"8ff7d16213057c0d","x":2570,"y":-3320,"width":50,"height":3600},
-		{"type":"text","text":"","id":"e8b14cd4f10ddfe0","x":3020,"y":-3020,"width":50,"height":3600},
 		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Aurelix ShimmerBorne.md","id":"17c8f65cde67af25","x":370,"y":-3020,"width":400,"height":400,"color":"6"},
 		{"type":"file","file":"- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Thalina  Yorugeshou.md","id":"6f2c71fadae3808a","x":-530,"y":-3020,"width":400,"height":400,"color":"6"},
 		{"type":"file","file":"- Brannon -/Characters/Djinn/Sansom, the mountain shatterer.md","id":"92ee5a361976d4b7","x":1270,"y":-3020,"width":400,"height":400,"color":"4"},
