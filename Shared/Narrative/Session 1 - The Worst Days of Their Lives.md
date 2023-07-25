@@ -9,10 +9,13 @@
 
 
 ## The Forging Of The Minds
-
 #### Seram Dos
 
 
 #### Stronvan Quatre
 
+
 ## The Auction
+
+
+## The Talus
