@@ -1,2 +1,2 @@
-A ship helmed by [[- Quinn -/Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum]]
+A ship helmed by [[- Brannon -/Characters/NPC/Seni/Nomli|Captain Gurglegum]]
 
