@@ -1,1 +1,1 @@
-The home of the [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]] and capital of [[Brokvar (country)]]. Elaine has requested you return to Brokvar with her - coincidentally, she is said to have the power to remove the [[dimemitrium cuffs]] placed around yours and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]]'s wrists and legs. 
+The home of the [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]] and capital of [[Brokvar (country)]]. Elaine has requested you return to Brokvar with her

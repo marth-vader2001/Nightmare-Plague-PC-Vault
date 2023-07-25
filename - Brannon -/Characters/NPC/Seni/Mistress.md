@@ -43,4 +43,4 @@ Unknown
 Unknown
 
 ### Notes
-
+She is said to have the power to remove the [[Dimemitrium Cuffs]] placed around yours and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]]'s wrists and legs. 
