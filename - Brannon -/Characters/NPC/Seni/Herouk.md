@@ -45,3 +45,5 @@ Unknown
 
 ### Notes
 The second in command of [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]]. Herouk was a privateer by trade and worked alongside his partner [[Nomli|Nomli]].
+
+Took the slaves of [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]], including [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] to [[- Brannon -/Locations/Seni Isles/Brokvar/Virmarr|Virmarr]]
