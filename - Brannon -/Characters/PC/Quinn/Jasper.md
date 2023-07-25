@@ -11,7 +11,7 @@ Jasper Shatterborne
 25
 
 ##### Place of Origin
-[[Yamanohana]]
+[[- Brannon -/Locations/Chimo-Nahagi/Major Locations/Yamanohana|Yamanohana]]
 
 ##### Family
 

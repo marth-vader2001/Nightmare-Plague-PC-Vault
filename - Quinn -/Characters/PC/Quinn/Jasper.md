@@ -30,7 +30,7 @@ Parents:
 - [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne]]
 
 Djinn heritage:
-- [[Sansom, the mountain shatterer]]
+- [[- Quinn -/Characters/Djinn/Sansom, the mountain shatterer|Sansom, the mountain shatterer]]
 - [[- Quinn -/Characters/Djinn/Auroris, the Shimmering Sentinel]]
 
 ##### Race
@@ -59,7 +59,7 @@ My family and friends are the most important things to me, even when we are far 
 There is no room for caution in a life filled to the brim. I don't think before doing what I believe is the right thing
 
 ##### Affiliations
-- [[The Travelling Merchants]]
+- [[the travelling Q]]
 - [[The other slaves]]
 
 ---
@@ -70,4 +70,4 @@ Younger sibling to Bismuth by two minutes.
 
 very trans-phobic family & homo-phobic -> left home
 
-[Jasper helped a village](That%20Time%20Jasper%20Helped%20a%20Village)
+[[- Quinn -/Additional Lore/That Time Jasper Helped a Village|That Time Jasper Helped a Village]]
