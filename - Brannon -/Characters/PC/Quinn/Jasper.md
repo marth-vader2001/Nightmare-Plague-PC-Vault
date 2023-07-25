@@ -19,11 +19,10 @@ Jasper Shatterborne
 ##### Family
 
 Siblings: 
-- [[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
-- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne]]
-- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne]]
-- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Vesper Shatterborne]]
-- [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Pyrrhus Shatterborne]]
+- [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]]
+- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Beryllis Shatterborne|Beryllis]]
+- [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Nicodemus Shatterborne|Nicodemus Shatterborne]]
+
 
 Parents:
 - [[- Quinn -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne]]
