@@ -79,10 +79,8 @@ While exploring a ruin overtaken by forest, Bismuth encountered a [[Wilderbeast]
 
 While never as successful at self-transfiguration as their Sibling Jasper, Bismuth's Tactical understanding of combat combined with the ferocious nature of the beasts he has mastered has made him a combative marvel. 
 
-While Jasper was rejuvinating the earth, Bismuth aided the village by rounding up more livestock for the vilage by transforming into a wilderbeast with the help of Jasper and the blessing of Kaede.
+While Jasper was rejuvenating the earth, Bismuth aided the village by rounding up more livestock for the village by transforming into a Wilderbeast with the help of Jasper and the blessing of Kaede.
 
-
-As you further explore Chimo-Nahagi you have a run in with some foreign slavers, a band of Human, Dwarven and Tabaxi. You have a brawl with the leader [[Nomli Gurglegum]] and he decides to take you as a special gift for his master as opposed to be used as a normal slave in the pits. 
 
 
 
