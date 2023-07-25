@@ -68,7 +68,7 @@ After being taken as a slave and forced into a new land, Bismuth desires to find
 Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
 
 ##### Affiliations
-- [[The Travelling Merchants]]
+- [[the travelling Q]]
 - [[The other slaves Q]]
 - [[- Quinn -/Characters/NPC/Chimo-Nahagi/Primalas|Primalas]]
 ---

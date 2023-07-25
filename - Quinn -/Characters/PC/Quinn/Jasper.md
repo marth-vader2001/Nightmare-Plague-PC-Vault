@@ -57,7 +57,7 @@ There is no room for caution in a life filled to the brim. I don't think before 
 
 ##### Affiliations
 - [[the travelling Q]]
-- [[The other slaves]]
+- [[The other slaves Q]]
 
 ---
 ### Backstory
