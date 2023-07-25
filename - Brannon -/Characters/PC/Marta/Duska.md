@@ -1,4 +1,7 @@
 ![[Duska_Token.png]]
+[[Duska.png|Full Art]]
+
+---
 ### Character Info
 
 ##### Name 
