@@ -1,0 +1,1 @@
+Kenzen is considered "the Justified" due to their proclivity with defending the innocent from evil - notable [[- Brannon -/Characters/Greater Dragons/Kenzen]] aided in the defence of [[Harugawa]]

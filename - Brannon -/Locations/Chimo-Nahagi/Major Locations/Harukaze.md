@@ -2,6 +2,6 @@ A small community nestled in a bowl on the edge of [[- Brannon -/Locations/Chimo
 
 During the winter of 1790, you and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] rejuvenated their farmland after it was sapped of all it's nutrients by a vigorous crop that was eventually wiped about by disease. 
 
-In the nearby woodlands, you later encountered a Wilderbeast and [[- Brannon -/Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede|Kaede]].
+In the nearby woodlands, you later encountered a Wilderbeast and [[- Brannon -/Characters/Greater Dragons/Kaede|Kaede]].
 
 
