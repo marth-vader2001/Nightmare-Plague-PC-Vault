@@ -1,1 +1,1 @@
-The ship that you and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] were held on during your transport to new unknown lands. The ship was helmed by [[Nomli Gurglegum]] and [[The Crew of the Kilfenora|crewed by an assortment of others]].
+The ship that you and [[- Aime -/Characters/Player Characters/Quinn/Jasper|Jasper]] were held on during your transport to new unknown lands. The ship was helmed by [[Nomli  and [[The Crew of the Kilfenora|crewed by an assortment of others]].
