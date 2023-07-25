@@ -1,1 +1,1 @@
-Combining "kiri" (fog/mist) and "oka" (hill), this name portrays a town that is often covered in a mystical mist, adding an air of mystery and enchantment to its surroundings.
+Constantly covered in a thick mist, this town is said to be haunted by the dead
