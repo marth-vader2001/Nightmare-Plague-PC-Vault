@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Cunja
+Breek
 
 ##### Current Age
 Unknown
@@ -17,7 +17,7 @@ Unknown
 Unknown
 
 ##### Race
-Dwarf
+Unknown
 
 ##### Class
 Unknown
