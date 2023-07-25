@@ -1,0 +1,1 @@
+The home of the [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]] and capital of [[Brokvar (country)]]
