@@ -1,1 +1,1 @@
-The coastal village that [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] beached a short hike from after losing its masts at sea.
+The coastal village that [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] beached a short hike from after losing its masts at sea.
