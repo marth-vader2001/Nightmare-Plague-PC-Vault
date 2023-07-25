@@ -11,7 +11,7 @@ Bismuth Shatterborne
 25
 
 ##### Place of Origin
-[[Yamanohana]]
+[[- Brannon -/Locations/Chimo-Nahagi/Major Locations/Yamanohana|Yamanohana]]
 
 ##### Family
 
@@ -75,7 +75,7 @@ Born to [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Sha
 
 During their travels, Bismuth encountered many an oddity and learnt how to manipulate their powers to take on the form of the beast. 
 
-While exploring a ruin overtaken by forest, Bismuth encountered a [[- Quinn -/Bestiary/Beasts/Wilderbeast]], not realising what it was, Bismuth attempted to engage in combat with them; this did not however go well for Bismuth who promptly had his ass handed to him. Despite the offense, [[Kaede]] could tell that Bismuth was of good heart and sent him on his way with his blessing and a boon.
+While exploring a ruin overtaken by forest, Bismuth encountered a [[- Brannon -/Bestiary/wilderbeast|wilderbeast]], not realising what it was, Bismuth attempted to engage in combat with them; this did not however go well for Bismuth who promptly had his ass handed to him. Despite the offense, [[Kaede]] could tell that Bismuth was of good heart and sent him on his way with his blessing and a boon.
 
 While never as successful at self-transfiguration as their Sibling Jasper, Bismuth's Tactical understanding of combat combined with the ferocious nature of the beasts he has mastered has made him a combative marvel. 
 
