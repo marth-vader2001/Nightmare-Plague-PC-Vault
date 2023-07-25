@@ -1,4 +1,4 @@
-You do not know what The Person in the Mirror looks like
+![[Unknown_Token.png]]
 
 ---
 ### Character Info
