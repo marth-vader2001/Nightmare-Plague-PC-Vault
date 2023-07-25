@@ -1,8 +1,5 @@
 ![[Jasper_Token.png]]
-
----
-### World Lore (things you know in brief)
-[[The Greater Dragons]]
+[[Jasper.png|Full Art]]
 
 ---
 ### Character Info
