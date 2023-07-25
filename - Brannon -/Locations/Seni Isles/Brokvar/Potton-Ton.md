@@ -1,1 +1,1 @@
-The coastal village that [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] is due to make port at in Brokvar.
+The coastal village that [[- Aime -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] beached a short hike from after loo
