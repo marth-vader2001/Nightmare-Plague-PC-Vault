@@ -1,5 +1,5 @@
-![[Bismuth_Token.png]]
-[[Shared/Resources/Full Art/PCs/Bismuth.png|Full Art]]
+![[Primalas_Token.png]]
+[[Primalas.png|Full Art]]
 
 ---
 ### Character Info
@@ -8,65 +8,46 @@
 Primalas
 
 ##### Current Age
-
+Unknown
 
 ##### Place of Origin
-
+Unknown
 
 ##### Family
+Unknown
 
 ##### Race
 Dragon
 
 ##### Class
-
+Sorcerer? 
 
 ##### Alignment
-Neutral Good
+Unknown
 
 ##### Personality Traits
-- Adventurous
-- Curious
-- Restless
-- Open-Minded
-- Energetic
-- Independent
+Unknown
 
 ##### Long Term Goals
-- Would like to find a way home or a new home
-- Take revenge on those that brought you to Seni
+Unknown
 
 ##### Secondary Goals
-- Learn more about Family History
-- Commune with the other Greater Dragons
-- Find out why Chimo-Nahagi locals are aiding in foreign slave trade
-- Keeping Jasper safe
+Unknown
 
 ##### Motivations
-After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
+Unknown
 
 ##### Flaws
-Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
+Unknown
 
 ##### Affiliations
-- [[The Travelling Merchants]]
-- [[The other slaves]] + Primalas
+Unknown
 
 ### Notes
+A neutral passenger on [[- Brannon -/Additional Lore/Ships/The Kilfenora|The Kilfenora]] and one of the few that visited you while you were in the cargo-hold.
 
-Born to [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne|Magnar Shatterborne]] and [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynessa|Ynessa]] Bismuth had a very troubled upbringing after his mother died birthing him. Despite being one of 6 siblings, only developed a close relationship with one: his twin sibling Jasper. The two were inseparable from birth and stood up for each other when no one else would. When Jasper came out as Trans, the family denounced her right to the name Shatterborne. On hearing the news, Magnar tried to strike Jasper and would've succeeded if not for the intervention of Bismuth. The pair promptly left their home in search of adventure and freedom. 
+Primalas mostly kept to himself on the ship: wrapped head to foot in a hooded, heavy dull cloak. The only adornment he wore was a simple brooch pinning the cloak together: a golden eye, studded with a rich ruby in place of its iris. 
 
-During their travels, Bismuth encountered many an oddity and learnt how to manipulate their powers to take on the form of the beast. 
+Fond of the game Liar's dice, Primalas' sole regular excursion would be to play with the ship's crew. [[- Brannon -/Characters/NPC/Chimo-Nahagi/Ingo|Ingo]] was the only one of which that ever gave him trouble.
 
-While exploring a ruin overtaken by forest, Bismuth encountered a [[Wilderbeast]], not realising what it was, Bismuth attempted to engage in combat with them; this did not however go well for Bismuth who promptly had his ass handed to him. Despite the offense, [[Kaede]] could tell that Bismuth was of good heart and sent him on his way with his blessing and a boon.
-
-While never as successful at self-transfiguration as their Sibling Jasper, Bismuth's Tactical understanding of combat combined with the ferocious nature of the beasts he has mastered has made him a combative marvel. 
-
-While Jasper was rejuvinating the earth, Bismuth aided the village by rounding up more livestock for the vilage by transforming into a wilderbeast with the help of Jasper and the blessing of Kaede.
-
-
-As you further explore Chimo-Nahagi you have a run in with some foreign slavers, a band of Human, Dwarven and Tabaxi. You have a brawl with the leader [[Nomli Gurglegum]] and he decides to take you as a special gift for his master as opposed to be used as a normal slave in the pits. 
-
-
-
----
+Primalas paid for passage to Seni to research its culture and visit the [[Imperial library of Heinabergsar]].
