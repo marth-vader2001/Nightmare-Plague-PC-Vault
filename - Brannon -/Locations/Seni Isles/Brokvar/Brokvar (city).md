@@ -1,1 +1,1 @@
-The home of the [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]] and capital of [[Brokvar (country)]]
+The home of the [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]] and capital of [[Brokvar (country)]]. Elaine has requested you return to Brokvar with her - coincidentally, she 
