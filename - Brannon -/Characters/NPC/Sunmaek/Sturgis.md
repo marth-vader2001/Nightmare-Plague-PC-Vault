@@ -46,7 +46,7 @@ Unknown
 ### Notes
 A member of [[- Brannon -/Groups/The Chancellorship|The Chancellorship]]
 
-Sent to [[- Brannon -/Locations/Seni Isles/Brokvar/Virmarr|Virmarr]] to meet [[- Brannon -/Characters/NPC/Seni/Elaine|Elaine]] and then be escorted to [[Brokvar (city)]] to meet the [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]].
+Sent to [[- Brannon -/Locations/Seni Isles/Brokvar/Virmarr|Virmarr]] to meet [[- Brannon -/Characters/NPC/Seni/Elaine|Elaine]] and then be escorted to [[- Brannon -/Locations/Seni Isles/Brokvar/Brokvar (city)]] to meet the [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]].
 
 
 

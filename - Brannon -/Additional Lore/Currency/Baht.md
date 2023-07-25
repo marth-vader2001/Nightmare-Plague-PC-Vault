@@ -1,3 +1,1 @@
-The currency of [[Brokvar (country)|Brokvar]]
-
-Unitary system comprising of 1 denominative coin. 
+The currency of [[- Brannon -/Locations/Seni Isles/Brokvar/Brokvar (country)|Brokvar]]
