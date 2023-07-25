@@ -67,7 +67,7 @@ Past experiences with bad leadership have lead me to feel the need to be in char
 
 ##### Affiliations
 - [[The Travelling Merchants]]
-- [[The other slaves]] + Primalas
+- [[The other slaves]]
 
 ### Notes
 

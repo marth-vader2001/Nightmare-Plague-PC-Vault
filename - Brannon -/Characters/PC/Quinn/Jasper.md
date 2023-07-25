@@ -1,8 +1,5 @@
 ![[Jasper_Token.png]]
 [[Shared/Resources/Full Art/PCs/Jasper.png|Full Art]]
----
-### World Lore (things you know in brief)
-[[The Greater Dragons]]
 
 ---
 ### Character Info
@@ -61,12 +58,4 @@ Chaotic Good
 - [[The Travelling Merchants]]
 - [[The other slaves]]
 
----
-### Backstory
-Twin sibling to [[- Quinn -/Characters/PC/Brannon/Bismuth Shatterborne]]
-
-Younger sibling to Bismuth by two minutes.
-
-very trans-phobic family & homo-phobic -> left home
-
-[Jasper helped a village](That%20Time%20Jasper%20Helped%20a%20Village)
+### Notes
