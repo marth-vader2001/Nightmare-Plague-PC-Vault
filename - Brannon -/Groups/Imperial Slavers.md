@@ -1,2 +1,2 @@
-Slavers of the imperial capital, this group collects hard working species to help construct the imperial regime's cities and constructions.
+Slavers controlled by the [[- Brannon -/Groups/Ymerodrol Empire|Ymerodrol Empire]] [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]] and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] were captured by a branch that were sent to retrieve slaves from 
 
