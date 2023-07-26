@@ -1,1 +1,0 @@
-Father to [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Dolomite (Dola) Shimmerborne|Dolomite (Dola)]] and [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Rilldina (Dina) Shimmerborne|Rilldina (Dina)]]
