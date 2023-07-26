@@ -1,0 +1,1 @@
+Constantly covered in a thick mist, this town is said to be haunted by the dead

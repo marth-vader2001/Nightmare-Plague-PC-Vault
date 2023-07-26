@@ -1,0 +1,1 @@
+Downriver from [[- Brannon -/Locations/Chimo-Nahagi/Major Locations/Hayatsuyu|Hayatsuyu]]

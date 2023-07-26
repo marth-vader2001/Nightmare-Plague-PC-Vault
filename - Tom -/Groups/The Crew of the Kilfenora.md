@@ -1,0 +1,10 @@
+[[- Brannon -/Characters/NPC/Seni/Nomli]]
+[[Herouk]]
+
+[[- Brannon -/Characters/NPC/Chimo-Nahagi/Ingo|Ingo]]
+[[Isabella]]
+[[- Brannon -/Characters/NPC/Chimo-Nahagi/Jareth|Jareth]]
+[[Magnus]]
+[[- Brannon -/Characters/NPC/Chimo-Nahagi/Merlin|Merlin]]
+[[Seraphina]]
+[[Thorkil]]

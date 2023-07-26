@@ -1,0 +1,1 @@
+Middle son of [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne|Magnar Shatterborne]] and [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Ynessa|Ynessa]]

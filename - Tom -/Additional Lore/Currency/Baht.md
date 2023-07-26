@@ -1,0 +1,1 @@
+The currency of [[- Brannon -/Locations/Seni Isles/Brokvar/Brokvar (country)|Brokvar]]
