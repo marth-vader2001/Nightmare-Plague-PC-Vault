@@ -20,7 +20,8 @@
 		{"type":"text","text":"","id":"0b446a873fad3c52","x":1220,"y":-2255,"width":50,"height":60},
 		{"type":"text","text":"","id":"931fb71881d2c9c8","x":2345,"y":-2255,"width":50,"height":60},
 		{"type":"text","text":"","id":"b68e8f097599d23b","x":95,"y":-2845,"width":50,"height":50},
-		{"type":"text","text":"","id":"d00e3a61c3d03d86","x":545,"y":-3440,"width":50,"height":50}
+		{"type":"text","text":"","id":"d00e3a61c3d03d86","x":545,"y":-3440,"width":50,"height":50},
+		{"id":"4504facb689ed821","x":1664,"y":-3591,"width":250,"height":271,"type":"text","text":"# DEAD\n#### ALIVE\n###### UNKNOWN"}
 	],
 	"edges":[
 		{"id":"132f123e897da0b4","fromNode":"6f2c71fadae3808a","fromSide":"right","toNode":"b68e8f097599d23b","toSide":"left"},
