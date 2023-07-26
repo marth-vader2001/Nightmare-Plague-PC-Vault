@@ -15,5 +15,5 @@
 #### Stronvan Quatre
 
 
-## The Auction (part 1)
+## The Auction
 
