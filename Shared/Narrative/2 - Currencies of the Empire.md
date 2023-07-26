@@ -8,7 +8,7 @@ Tom enters Tavern, finds Bismuth, Jasper, Elaine and others in the common room.
 
 ---
 
-Food comes out, its a pie
+Food comes out for Bimsuth and Jasper, its a pie
 
 
 
